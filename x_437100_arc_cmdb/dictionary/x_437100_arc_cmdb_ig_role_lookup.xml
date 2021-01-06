@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Sub-Department: Lookup_IG Role" max_length="40" name="x_437100_arc_cmdb_ig_role_lookup" sizeclass="237" type="collection">
+        <element label="ID" max_length="40" name="id" type="integer"/>
+        <element display="true" label="IGRole Name" max_length="255" name="igrole_name" type="string"/>
+    </element>
+</database>

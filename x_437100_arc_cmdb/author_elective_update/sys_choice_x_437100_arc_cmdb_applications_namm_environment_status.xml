@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="namm_environment_status" table="x_437100_arc_cmdb_applications" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>namm_environment_status</element>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 06:14:32</sys_created_on>
+            <sys_id>b542de1bdb8a5010b0235c7a48961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>namm_environment_status</sys_name>
+            <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+            <sys_update_name>sys_choice_x_437100_arc_cmdb_applications_namm_environment_status</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 06:14:32</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>namm_environment_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lower Environment(s)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 06:14:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05325e5bdb8a5010b0235c7a48961953</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-27 11:04:23</sys_updated_on>
+            <value>Lower Environment(s)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>namm_environment_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Production Environment</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 06:14:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7942de5bdb8a5010b0235c7a48961907</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-27 11:04:32</sys_updated_on>
+            <value>Production Environment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>namm_environment_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TBD</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 06:14:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d52de5bdb8a5010b0235c7a48961962</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 06:15:01</sys_updated_on>
+            <value>TBD</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

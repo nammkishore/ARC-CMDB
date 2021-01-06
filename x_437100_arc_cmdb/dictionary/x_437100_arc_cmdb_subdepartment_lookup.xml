@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Sub-Department: Lookup_SubDepartment" max_length="40" name="x_437100_arc_cmdb_subdepartment_lookup" sizeclass="45" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Applications" max_length="40" name="choice_application" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element label="ID" max_length="40" name="id" type="integer"/>
+        <element display="true" label="SubDepartment Name" max_length="255" name="subdepartment_name" type="string"/>
+    </element>
+</database>

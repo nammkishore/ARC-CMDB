@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="ARC-CMDB">3a0d0f9edb220010b0235c7a48961924</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>CDO Delivery Populations</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_437100_arc_cmdb_cdo_delivery_population</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_437100_arc_cmdb.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-10 08:58:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aa052a7ddb111010b0235c7a489619a3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Application: Lookup_CDO Delivery Populations</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+        <sys_update_name>sys_app_module_aa052a7ddb111010b0235c7a489619a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-10 08:59:51</sys_updated_on>
+        <timeline_page/>
+        <title>Application: Lookup_CDO Delivery Populations</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</application>
+        <file_path/>
+        <instance_id>faa61d43dbc9bfc442b321c4059619ff</instance_id>
+        <instance_name>dev84536</instance_name>
+        <name>sys_app_module_aa052a7ddb111010b0235c7a489619a3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="ARC-CMDB">3a0d0f9edb220010b0235c7a48961924</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>CDO Delivery Populations</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_437100_arc_cmdb_cdo_delivery_population</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_437100_arc_cmdb.user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-10 08:58:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>aa052a7ddb111010b0235c7a489619a3</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Application: Lookup_CDO Delivery Populations</sys_name><sys_overrides/><sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package><sys_policy/><sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope><sys_update_name>sys_app_module_aa052a7ddb111010b0235c7a489619a3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-10 08:59:51</sys_updated_on><timeline_page/><title>Application: Lookup_CDO Delivery Populations</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-806407887</payload_hash>
+        <record_name>Application: Lookup_CDO Delivery Populations</record_name>
+        <reverted_from/>
+        <source>430d0f9edb220010b0235c7a489619bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-10 08:59:51</sys_created_on>
+        <sys_id>f95522bddb111010b0235c7a48961991</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1729d7503990000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-10 08:59:51</sys_updated_on>
+        <type>Module</type>
+        <update_guid>b15522bddd1110102acf16fec3c87991</update_guid>
+        <update_guid_history>b15522bddd1110102acf16fec3c87991:-806407887,a2052a7d7a111010464906019ee1efa5:-1727430831</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Application: Lookup_CDO Delivery Populations">eab52ea3db525010b0235c7a48961930</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-04 12:33:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1359a586cb054c549b2ffe6d7eb2dd44</sys_id>
+        <sys_metadata>aa052a7ddb111010b0235c7a489619a3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application: Lookup_CDO Delivery Populations</sys_name>
+        <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+        <sys_scope_delete display_value="">19facf94bce04a3285621ed584e50559</sys_scope_delete>
+        <sys_update_name>sys_app_module_aa052a7ddb111010b0235c7a489619a3</sys_update_name>
+        <sys_update_version display_value="sys_app_module_aa052a7ddb111010b0235c7a489619a3">f95522bddb111010b0235c7a48961991</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-04 12:33:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

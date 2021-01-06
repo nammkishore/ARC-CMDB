@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Application: Lookup_Server Authentication Method" max_length="40" name="x_437100_arc_cmdb_server_authentication_method_lookup" sizeclass="12" type="collection">
+        <element display="true" label="Authentication Method" max_length="255" name="authentication_method" type="string"/>
+        <element label="ID" max_length="40" name="id" type="integer"/>
+    </element>
+</database>

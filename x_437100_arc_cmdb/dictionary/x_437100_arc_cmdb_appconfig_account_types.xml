@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="AppConfig-Account Types" max_length="40" name="x_437100_arc_cmdb_appconfig_account_types" sizeclass="328" type="collection">
+        <element choice="1" label="Account Type" max_length="60" name="accounttype" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Elevated Account" sequence="1" value="elevated account"/>
+                <element inactive_on_update="false" label="Server Based Account" sequence="2" value="server based account"/>
+                <element inactive_on_update="false" label="Service Account" sequence="3" value="service account"/>
+                <element inactive_on_update="false" label="AD Account" sequence="4" value="ad account"/>
+                <element inactive_on_update="false" label="Account Type TBD" sequence="5" value="account type tbd"/>
+                <element inactive_on_update="false" label="App-Side Account" sequence="6" value="app-side account"/>
+                <element inactive_on_update="false" label="N\A" sequence="7" value="n\a"/>
+                <element inactive_on_update="false" label="1. Not Provided in Application Registry (AR)" sequence="8" value="1. Not Provided in Application Registry (AR)"/>
+                <element inactive_on_update="false" label="2. Not Provided in Team Foundation Server (TFS)" sequence="9" value="2. Not Provided in Team Foundation Server (TFS)"/>
+                <element inactive_on_update="false" label="3. Not Found During Code Review (CR)" sequence="10" value="3. Not Found During Code Review (CR)"/>
+                <element inactive_on_update="false" label="4. Not Provided in COTS Documentation (COTSD)" sequence="11" value="4. Not Provided in COTS Documentation (COTSD)"/>
+                <element inactive_on_update="false" label="5. Not Provided during SME Interview (SMEI)" sequence="12" value="5. Not Provided during SME Interview (SMEI)"/>
+                <element inactive_on_update="false" label="6. Not Provided by any Authoritative Source" sequence="13" value="6. Not Provided by any Authoritative Source"/>
+            </choice>
+        </element>
+        <element choice="1" hint="Column name: Account Domain" label="Account Domain" max_length="255" name="account_domain" reference="x_437100_arc_cmdb_application_environments_lookup" type="reference">
+            <choice/>
+        </element>
+        <element label="Account Name" max_length="255" name="account_name" type="string"/>
+        <element choice="1" label="Account Type" max_length="255" name="account_type" reference="x_437100_arc_cmdb_account_type_lookup" type="reference">
+            <choice/>
+        </element>
+        <element choice="1" label="AppId" max_length="255" name="appid" reference="x_437100_arc_cmdb_applications" type="reference">
+            <choice/>
+        </element>
+        <element choice="1" label="Is Account Name Hardcoded?" max_length="255" name="is_account_name_hardcoded" reference="x_437100_arc_cmdb_hard_coded_lookup" type="reference">
+            <choice/>
+        </element>
+        <element label="Notes" max_length="255" name="notes" type="string"/>
+    </element>
+</database>

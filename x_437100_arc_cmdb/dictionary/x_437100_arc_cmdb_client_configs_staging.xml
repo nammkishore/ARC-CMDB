@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Client Configs_Staging" max_length="40" name="x_437100_arc_cmdb_client_configs_staging" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Client Config Description" label="Client Config Description" max_length="125" name="u_client_config_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Client Session Info" label="Client Session Info" max_length="45" name="u_client_session_info" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Config Install Location" label="Config Install Location" max_length="45" name="u_config_install_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Config UNC Path" label="Config UNC Path" max_length="45" name="u_config_unc_path" type="string"/>
+        <element attributes="import_attribute_name=ElevatedAccountType" label="ElevatedAccountType" max_length="40" name="u_elevatedaccounttype" type="integer"/>
+        <element attributes="import_attribute_name=ID" label="ID" max_length="40" name="u_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Notes" label="Notes" max_length="40" name="u_notes" type="string"/>
+    </element>
+</database>

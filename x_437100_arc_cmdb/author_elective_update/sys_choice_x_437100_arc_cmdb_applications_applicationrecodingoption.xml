@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="applicationrecodingoption" table="x_437100_arc_cmdb_applications" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>applicationrecodingoption</element>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 10:24:00</sys_created_on>
+            <sys_id>c06b439fdb0e5010b0235c7a48961910</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>applicationrecodingoption</sys_name>
+            <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+            <sys_update_name>sys_choice_x_437100_arc_cmdb_applications_applicationrecodingoption</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 10:24:00</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>applicationrecodingoption</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No Recoding - NADI Group Only</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 10:24:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f44bc79fdb0e5010b0235c7a48961960</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 10:24:04</sys_updated_on>
+            <value>No Recoding - NADI Group Only</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>applicationrecodingoption</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No Recoding - Set AD Authentication/App Permissions to a Group/New Group</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 10:24:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>106b87dfdb0e5010b0235c7a48961959</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 10:24:26</sys_updated_on>
+            <value>No Recoding - Set AD Authentication/App Permissions to a Group/New Group</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>applicationrecodingoption</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Recoding Candidate</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 10:24:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc7bc313db4e5010b0235c7a489619a1</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 10:24:39</sys_updated_on>
+            <value>Recoding Candidate</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>applicationrecodingoption</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TBD</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 10:24:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>098b4713db4e5010b0235c7a48961938</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 10:24:50</sys_updated_on>
+            <value>TBD</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

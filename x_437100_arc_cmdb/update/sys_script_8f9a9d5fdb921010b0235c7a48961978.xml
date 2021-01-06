@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>false</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>false</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_437100_arc_cmdb_applications</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>ARC_ABR_CheckFieldsForEdit</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/ ) {
+
+    //Display an information message for each change to the record
+    //     var gru = GlideScriptRecordUtil.get(current);
+    //     var changedFields = gru.getChangedFields(); //Get changed fields with friendly names
+    //     var changedValues = gru.getChanges(); //Get changed field values
+    //     //Convert to JavaScript Arrays
+    //     gs.include('j2js');
+    //     changedFields = j2js(changedFields);
+    //     changedValues = j2js(changedValues);
+
+    //     //Process the changed fields
+    //     for (var i = 0; i < changedValues.length; i++) {
+    //         var val = changedValues[i];
+    //         if (val.getED().getType() == -1 && val.getJournalEntry(1)) {
+    //             //Print out last journal entry for journal fields
+    //             gs.addInfoMessage(val.getJournalEntry(1));
+    //         } else {
+    //             //Print out changed field and value for everything else
+    //             gs.addInfoMessage(changedFields[i] + ': ' + val.getDisplayValue());
+    //         }
+    //     }
+    var fields = ["accountable_business_owner", "technical_sme","applicationtype","application_sub_type","architecture_type","install_type","cdo_model","platform","applicationstatus","technology_stack","application_description"];
+    var ffields = [];
+
+    for (var x in current) {
+        var f = '';
+        if (current[x] != previous[x]) {
+            //gs.addInfoMessage('Field ' + x + ' has changed!');
+            if (fields.indexOf(x) != -1) {
+                ffields.push(current[x].getLabel());
+            }
+        }
+    }
+    gs.addInfoMessage('Please update "' + ffields.join(', ') + '" fields in Business Applications table to maintain data integrity!!');
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-03 12:28:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8f9a9d5fdb921010b0235c7a48961978</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>ARC_ABR_CheckFieldsForEdit</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+        <sys_update_name>sys_script_8f9a9d5fdb921010b0235c7a48961978</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 11:22:31</sys_updated_on>
+        <template/>
+        <when>after</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=8f9a9d5fdb921010b0235c7a48961978"/>
+</record_update>

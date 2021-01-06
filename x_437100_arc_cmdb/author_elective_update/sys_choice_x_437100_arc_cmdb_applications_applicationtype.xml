@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="applicationtype" table="x_437100_arc_cmdb_applications" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>applicationtype</element>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:55:03</sys_created_on>
+            <sys_id>ad1dd70ddb0e5010b0235c7a489619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>applicationtype</sys_name>
+            <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+            <sys_update_name>sys_choice_x_437100_arc_cmdb_applications_applicationtype</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:55:03</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>applicationtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1. Not Provided in Application Registry (AR)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:55:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>881d1b0ddb0e5010b0235c7a489619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:55:03</sys_updated_on>
+            <value>1. Not Provided in Application Registry (AR)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>applicationtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2. Not Provided in Team Foundation Server (TFS)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:55:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86dc1b89db0e5010b0235c7a4896192a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:55:24</sys_updated_on>
+            <value>2. Not Provided in Team Foundation Server (TFS)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>applicationtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3. Not Found During Code Review (CR)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:55:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f12d170ddb0e5010b0235c7a4896197b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:55:42</sys_updated_on>
+            <value>3. Not Found During Code Review (CR)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>applicationtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4. Not Provided in COTS Documentation (COTSD)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:55:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>923d9b0ddb0e5010b0235c7a489619c6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:55:59</sys_updated_on>
+            <value>4. Not Provided in COTS Documentation (COTSD)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>applicationtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5. Not Provided during SME Interview (SMEI)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:56:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e4d1b0ddb0e5010b0235c7a4896193c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:56:12</sys_updated_on>
+            <value>5. Not Provided during SME Interview (SMEI)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>applicationtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6. Not Provided by any Authoritative Source</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:56:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>355d9b0ddb0e5010b0235c7a489619fa</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:56:24</sys_updated_on>
+            <value>6. Not Provided by any Authoritative Source</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>applicationtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>App Dev Custom Coded Entity</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:56:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b46d1f0ddb0e5010b0235c7a48961917</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:56:41</sys_updated_on>
+            <value>App Dev Custom Coded Entity</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>applicationtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>COTS</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:56:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c7d1f0ddb0e5010b0235c7a48961944</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:56:54</sys_updated_on>
+            <value>COTS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>applicationtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>COTS App_3rd Party Provisioned</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:57:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>808d9f0ddb0e5010b0235c7a48961952</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:57:08</sys_updated_on>
+            <value>COTS App_3rd Party Provisioned</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>applicationtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>COTS App_Base Image</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:57:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>238d9f0ddb0e5010b0235c7a48961953</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:57:51</sys_updated_on>
+            <value>COTS App_Base Image</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>applicationtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Homegrown</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:58:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>02bd5f0ddb0e5010b0235c7a48961904</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:58:03</sys_updated_on>
+            <value>Homegrown</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>applicationtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Markware</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:58:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8dcd5f0ddb0e5010b0235c7a48961904</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:58:20</sys_updated_on>
+            <value>Markware</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>applicationtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Optum App</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:58:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9dd9f0ddb0e5010b0235c7a48961987</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:58:32</sys_updated_on>
+            <value>Optum App</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>applicationtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Optum Digital Marketing Platform (DMP)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:58:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04ed9f0ddb0e5010b0235c7a48961958</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:58:43</sys_updated_on>
+            <value>Optum Digital Marketing Platform (DMP)</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

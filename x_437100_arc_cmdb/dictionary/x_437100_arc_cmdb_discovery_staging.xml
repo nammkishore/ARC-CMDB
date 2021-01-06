@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Discovery_Staging" max_length="40" name="x_437100_arc_cmdb_discovery_staging" sizeclass="0" type="collection">
+        <element attributes="import_attribute_name=AppId" label="AppId" max_length="40" name="u_appid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CurrentDiscoveryStatus" label="CurrentDiscoveryStatus" max_length="40" name="u_currentdiscoverystatus" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ElevatedAccountType" label="ElevatedAccountType" max_length="40" name="u_elevatedaccounttype" type="string"/>
+        <element attributes="import_attribute_name=ID" label="ID" max_length="40" name="u_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=InitialDiscoveryWorkCompletedBy" label="InitialDiscoveryWorkCompletedBy" max_length="40" name="u_initialdisco_orkcompletedby" type="string"/>
+    </element>
+</database>

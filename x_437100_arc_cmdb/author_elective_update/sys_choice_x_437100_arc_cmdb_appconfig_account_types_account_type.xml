@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="account_type" table="x_437100_arc_cmdb_appconfig_account_types" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>account_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Server Based Account</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appconfig_account_types</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 12:54:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da8ad93edbc21010b0235c7a48961938</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 12:54:29</sys_updated_on>
+            <value>server based account</value>
+        </sys_choice>
+        <sys_choice_set action="DELETE">
+            <element>account_type</element>
+            <name>x_437100_arc_cmdb_appconfig_account_types</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 12:54:01</sys_created_on>
+            <sys_id>068a157edbc21010b0235c7a48961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>account_type</sys_name>
+            <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+            <sys_update_name>sys_choice_x_437100_arc_cmdb_appconfig_account_types_account_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 12:54:01</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</application>
+        <file_path/>
+        <instance_id>faa61d43dbc9bfc442b321c4059619ff</instance_id>
+        <instance_name>dev84536</instance_name>
+        <name>sys_choice_x_437100_arc_cmdb_appconfig_account_types_account_type</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="account_type" table="x_437100_arc_cmdb_appconfig_account_types" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>account_type</element><hint/><inactive>false</inactive><label>Server Based Account</label><language>en</language><name>x_437100_arc_cmdb_appconfig_account_types</name><sequence>2</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-20 12:54:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>da8ad93edbc21010b0235c7a48961938</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-20 12:54:29</sys_updated_on><value>server based account</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>account_type</element><name>x_437100_arc_cmdb_appconfig_account_types</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-20 12:54:01</sys_created_on><sys_id>068a157edbc21010b0235c7a48961953</sys_id><sys_mod_count>0</sys_mod_count><sys_name>account_type</sys_name><sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package><sys_policy/><sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope><sys_update_name>sys_choice_x_437100_arc_cmdb_appconfig_account_types_account_type</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-20 12:54:01</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-1927915551</payload_hash>
+        <record_name>AppConfig-Account Types.Account Type</record_name>
+        <reverted_from/>
+        <source>430d0f9edb220010b0235c7a489619bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-20 12:58:26</sys_created_on>
+        <sys_id>328b51bedbc21010b0235c7a489619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1736c4dd4360000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-20 12:58:26</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>f68b51beefc210100846c948002798c6</update_guid>
+        <update_guid_history>f68b51beefc210100846c948002798c6:-1927915551,7e8b51be92c210105ecd6962f8a592c3:419024872,b28b51be43c21010b394a182e69a66c1:-1368977822,cbca597e53c2101007229a189153991b:1881338095,26ca197edfc21010b5d8b3f810ea907a:-1894909242,8dcad17e03c2101028f62f5739b349df:1049520063,79ba9d3e58c210105ab9b39ee5101dfb:-1289926085,05bad17e0ec210103e8b6d6258ed96db:1383135035,bfaa113e5cc21010b2d11a026cd4af32:-574212976,09aadd3ee1c21010363c440d377f9e5c:419024872,6caa957e70c210109132c41a6f4863ec:-134333583,1a9a557e48c21010173f897eb309270c:1881649777,989ad93e48c21010415dee7142bbe83b:1619403392,3b8a557e1fc21010f8705041cfe84708:-26636530,4a8a957ec5c210104f9e5f33d715e478:-958021110</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-20 12:58:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>068a157edbc21010b0235c7a48961953</sys_id>
+        <sys_metadata>068a157edbc21010b0235c7a48961953</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>account_type</sys_name>
+        <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+        <sys_scope_delete display_value="">19facf94bce04a3285621ed584e50559</sys_scope_delete>
+        <sys_update_name>sys_choice_x_437100_arc_cmdb_appconfig_account_types_account_type</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_437100_arc_cmdb_appconfig_account_types_account_type">328b51bedbc21010b0235c7a489619c7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-20 12:58:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

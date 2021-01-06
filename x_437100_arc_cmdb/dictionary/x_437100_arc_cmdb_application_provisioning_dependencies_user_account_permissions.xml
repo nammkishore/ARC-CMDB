@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Application Provisioning Dependencies User Account Permissions_Staging" max_length="40" name="x_437100_arc_cmdb_application_provisioning_dependencies_user_account_permissions" sizeclass="0" type="collection">
+        <element attributes="import_attribute_name=AccountType" label="AccountType" max_length="40" name="u_accounttype" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=AccountTypeDomain" label="AccountTypeDomain" max_length="47" name="u_accounttypedomain" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ADGroupHardcoded" label="ADGroupHardcoded" max_length="40" name="u_adgrouphardcoded" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ADGroupHardcodedStatus" label="ADGroupHardcodedStatus" max_length="40" name="u_adgrouphardcodedstatus" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ADSecurityGroupDomain" label="ADSecurityGroupDomain" max_length="45" name="u_adsecuritygroupdomain" type="string"/>
+        <element attributes="import_attribute_name=AppId" label="AppId" max_length="40" name="u_appid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ApplicationPermission" label="ApplicationPermission" max_length="250" name="u_applicationpermission" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ElevatedAccountType" label="ElevatedAccountType" max_length="92" name="u_elevatedaccounttype" type="string"/>
+        <element attributes="import_attribute_name=ID" label="ID" max_length="40" name="u_id" type="integer"/>
+        <element attributes="import_attribute_name=IsADSecurityGroupHardCoded" label="IsADSecurityGroupHardCoded" max_length="40" name="u_isadsecuritygrouphardcoded" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NotatedADGroup(s)Status" label="NotatedADGroup(s)Status" max_length="40" name="u_notatedadgroup_s_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Notes" label="Notes" max_length="169" name="u_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SecurityRole" label="SecurityRole" max_length="115" name="u_securityrole" type="string"/>
+    </element>
+</database>

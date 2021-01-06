@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Application: Lookup_OCNCT CDO Domain\SSO Authentication" max_length="40" name="x_437100_arc_cmdb_application_lookup_ocnct_cdo_domain_sso_authentication" sizeclass="6" type="collection">
+        <element label="ID" max_length="40" name="id" type="integer"/>
+        <element display="true" label="List Item" max_length="100" name="list_item" type="string"/>
+    </element>
+</database>

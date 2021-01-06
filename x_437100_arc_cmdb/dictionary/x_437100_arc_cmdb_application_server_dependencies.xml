@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Application Server Dependencies" max_length="40" name="x_437100_arc_cmdb_application_server_dependencies" sizeclass="603" type="collection">
+        <element choice="1" label="AppId" max_length="255" name="appid" reference="x_437100_arc_cmdb_applications" type="reference">
+            <choice/>
+        </element>
+        <element label="DatabaseName" max_length="255" name="databasename" type="string"/>
+        <element label="DatabaseTable" max_length="255" name="databasetable" type="string"/>
+        <element label="DatabaseType" max_length="255" name="databasetype" type="string"/>
+        <element label="Notes" max_length="1000" name="notes" type="string"/>
+        <element choice="1" label="ServerAuthenticationMethod" max_length="255" name="serverauthenticationmethod" reference="x_437100_arc_cmdb_server_authentication_method_lookup" type="reference">
+            <choice/>
+        </element>
+        <element label="ServerDescription" max_length="255" name="serverdescription" type="string"/>
+        <element label="ServerIP" max_length="255" name="serverip" type="string"/>
+        <element label="ServerName" max_length="255" name="servername" type="string"/>
+        <element choice="1" label="ServerAuthenticationMethod" max_length="60" name="server_authentication_method" type="string">
+            <choice>
+                <element inactive_on_update="false" label="TBD" sequence="1" value="TBD"/>
+                <element inactive_on_update="false" label="N\A" sequence="2" value="N\A"/>
+                <element inactive_on_update="false" label="Windows Authentication" sequence="3" value="Windows Authentication"/>
+                <element inactive_on_update="false" label="Only Server Authentication" sequence="4" value="Only Server Authentication"/>
+                <element inactive_on_update="false" label="Mixed mode Authentication" sequence="5" value="Mixed mode Authentication"/>
+                <element inactive_on_update="false" label="Username and Password authentication" sequence="6" value="Username and Password authentication"/>
+                <element inactive_on_update="false" label="1. Not Provided in Application Registry (AR)" sequence="7" value="1. Not Provided in Application Registry (AR)"/>
+                <element inactive_on_update="false" label="2. Not Provided in Team Foundation Server (TFS)" sequence="8" value="2. Not Provided in Team Foundation Server (TFS)"/>
+                <element inactive_on_update="false" label="3. Not Found During Code Review (CR)" sequence="9" value="3. Not Found During Code Review (CR)"/>
+                <element inactive_on_update="false" label="4. Not Provided in COTS Documentation (COTSD)" sequence="10" value="4. Not Provided in COTS Documentation (COTSD)"/>
+                <element inactive_on_update="false" label="5. Not Provided during SME Interview (SMEI)" sequence="11" value="5. Not Provided during SME Interview (SMEI)"/>
+                <element inactive_on_update="false" label="6. Not Provided by any Authoritative Source" sequence="12" value="6. Not Provided by any Authoritative Source"/>
+            </choice>
+        </element>
+    </element>
+</database>

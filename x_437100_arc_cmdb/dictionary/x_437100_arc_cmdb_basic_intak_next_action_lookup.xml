@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Application: Lookup_Basic Intak-Next Action" max_length="40" name="x_437100_arc_cmdb_basic_intak_next_action_lookup" sizeclass="2" type="collection">
+        <element display="true" label="Action" max_length="255" name="action" type="string"/>
+    </element>
+</database>

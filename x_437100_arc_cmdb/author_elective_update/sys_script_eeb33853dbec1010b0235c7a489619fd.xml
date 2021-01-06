@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="DELETE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_437100_arc_cmdb_applications</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>ARC_ABR_CommonNamePerApplication</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/ ) {
+    var i = 0;
+    var j = 0;
+    var arrayItems = current.application_name.split(' ');
+    //var arrayItems = 'Alchemy Infinity';
+    while (i < arrayItems.length) {
+        var rec = new GlideRecord('x_437100_arc_cmdb_applications');
+        rec.query();
+        while (rec.next()) {
+            if (rec.application_name.indexOf(arrayItems[i].toString()) == 0) {
+                //current.common_name.setError(rec.common_name);
+                //gs.addInfoMessage("This is rec.next: " + rec.common_name);
+                current.common_name = rec.common_name;
+                //current.update();
+                j = 1;
+                break;
+            }
+        }
+
+        if (j == 1) {
+            break;
+        }
+        i++;
+    }
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-08 09:49:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>eeb33853dbec1010b0235c7a489619fd</sys_id>
+        <sys_mod_count>33</sys_mod_count>
+        <sys_name>ARC_ABR_CommonNamePerApplication</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+        <sys_update_name>sys_script_eeb33853dbec1010b0235c7a489619fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-08 13:44:29</sys_updated_on>
+        <template/>
+        <when>after</when>
+    </sys_script>
+    <sys_translated_text action="DELETE" query="documentkey=eeb33853dbec1010b0235c7a489619fd"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</application>
+        <file_path/>
+        <instance_id>faa61d43dbc9bfc442b321c4059619ff</instance_id>
+        <instance_name>dev84536</instance_name>
+        <name>sys_script_eeb33853dbec1010b0235c7a489619fd</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;x_437100_arc_cmdb_applications&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;ARC_ABR_CommonNamePerApplication&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/ ) {
+    var i = 0;
+    var j = 0;
+    var arrayItems = current.application_name.split(' ');
+    //var arrayItems = 'Alchemy Infinity';
+    while (i &lt; arrayItems.length) {
+        var rec = new GlideRecord('x_437100_arc_cmdb_applications');
+        rec.query();
+        while (rec.next()) {
+            if (rec.application_name.indexOf(arrayItems[i].toString()) == 0) {
+                //current.common_name.setError(rec.common_name);
+                //gs.addInfoMessage("This is rec.next: " + rec.common_name);
+                current.common_name = rec.common_name;
+                //current.update();
+                j = 1;
+                break;
+            }
+        }
+
+        if (j == 1) {
+            break;
+        }
+        i++;
+    }
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-08 09:49:34&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;eeb33853dbec1010b0235c7a489619fd&lt;/sys_id&gt;&lt;sys_mod_count&gt;33&lt;/sys_mod_count&gt;&lt;sys_name&gt;ARC_ABR_CommonNamePerApplication&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb"&gt;360d4b9edb220010b0235c7a4896197b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ARC-CMDB"&gt;360d4b9edb220010b0235c7a4896197b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_eeb33853dbec1010b0235c7a489619fd&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-08 13:44:29&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;after&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=eeb33853dbec1010b0235c7a489619fd"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-753166118</payload_hash>
+        <record_name>ARC_ABR_CommonNamePerApplication</record_name>
+        <reverted_from/>
+        <source>430d0f9edb220010b0235c7a489619bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-08 13:44:29</sys_created_on>
+        <sys_id>e50aed53db605010b0235c7a48961917</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171f487bef90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-08 13:44:29</sys_updated_on>
+        <type>Business Rule</type>
+        <update_guid>2d0aed53e3605010c10cd21b7ee41f16</update_guid>
+        <update_guid_history>2d0aed53e3605010c10cd21b7ee41f16:-753166118,5f34e953036050106d8b877d228f7cb1:2051914695,842425134f6050104474481f78a9266c:-2066915774,97032513d9605010a92977cb2c47c8f6:1169892239,bff129dfa020501034de2546b2a51e51:1096089455,fc01a1df2120501094fd7b0d4fc55701:-753166118,355021df98205010061701b08328c223:226040929,7c18955ba22050100796fdaca642242a:1630773294,dcc7595b7320501086f46b702ea8db28:-942308647,9f27915bb5205010da887c031ec274cd:-1532792102,f6179d1be220501079b62330c6cc8a4b:1745790330,77b65d1b67205010e67b09aa44a2f1cd:1693269617,db76991bbb205010909c1caa78dbe67d:237148258,1846111b51205010201339da19e01651:1548515108,389519d793205010be08d63102977234:1944707077,e305d5d7f32050108bcbb4d97a1eb31f:221325060,65b45d97fc205010548d2d4c8c5b7207:462653765,b28491d73c205010cceb0c5b8307ff98:2123658223,0113919752205010fcdf2bf9c1bb9ee6:1458914316,31f25197452050109043d532a82c8465:913583760,50625957872050100ce85f4f78a4d288:321746315,71d1d1573b20501083a705d69c6a8889:1712684617,eb51d91351205010b4f97cffde161586:-819406832,6a219917b5205010963a7648134aefbf:-1599937777,1b6051131020501009681482a2a46b60:511136026,66aa051368205010381a02cc20233862:266907949,3c6a0513912050106ad5b87e5d552458:762559247,930a4d9f2eec1010800c98530aae3b1e:1197078513,a0b8499f9cec101012027b22769fb5db:892692047,6898499f38ec1010262ea53e26c32411:570944589,7a48459fc1ec1010a110928c96749009:596945147,c79749dbe2ec101087c626d555c04d5b:636401870,c497c19f64ec10104eba6883cf782a29:-275303891,ac44bc53deec10107fa0260245f3ab26:-2318467</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-12 06:55:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_script">sys_script</sys_db_object>
+        <sys_id>4b99e12fa0ee4026bda472763b9217a1</sys_id>
+        <sys_metadata>eeb33853dbec1010b0235c7a489619fd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ARC_ABR_CommonNamePerApplication</sys_name>
+        <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+        <sys_parent display_value="Applications">7424143adba24010b0235c7a489619f0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+        <sys_scope_delete display_value="">19facf94bce04a3285621ed584e50559</sys_scope_delete>
+        <sys_update_name>sys_script_eeb33853dbec1010b0235c7a489619fd</sys_update_name>
+        <sys_update_version display_value="sys_script_eeb33853dbec1010b0235c7a489619fd">e50aed53db605010b0235c7a48961917</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-12 06:55:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

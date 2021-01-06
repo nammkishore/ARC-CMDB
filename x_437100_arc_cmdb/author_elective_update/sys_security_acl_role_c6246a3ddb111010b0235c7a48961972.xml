@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-10 08:54:41</sys_created_on>
+        <sys_id>c6246a3ddb111010b0235c7a48961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_437100_arc_cmdb_application_lookup_cdo_delivery_model.x_437100_arc_cmdb.user</sys_name>
+        <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+        <sys_security_acl display_value="x_437100_arc_cmdb_application_lookup_cdo_delivery_model">c6246a3ddb111010b0235c7a4896196f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c6246a3ddb111010b0235c7a48961972</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-10 08:54:41</sys_updated_on>
+        <sys_user_role display_value="x_437100_arc_cmdb.user" name="x_437100_arc_cmdb.user">7e0d0f9edb220010b0235c7a48961929</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</application>
+        <file_path/>
+        <instance_id>faa61d43dbc9bfc442b321c4059619ff</instance_id>
+        <instance_name>dev84536</instance_name>
+        <name>sys_security_acl_role_c6246a3ddb111010b0235c7a48961972</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-10 08:54:41</sys_created_on><sys_id>c6246a3ddb111010b0235c7a48961972</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_437100_arc_cmdb_application_lookup_cdo_delivery_model.x_437100_arc_cmdb.user</sys_name><sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package><sys_policy/><sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope><sys_security_acl display_value="x_437100_arc_cmdb_application_lookup_cdo_delivery_model">c6246a3ddb111010b0235c7a4896196f</sys_security_acl><sys_update_name>sys_security_acl_role_c6246a3ddb111010b0235c7a48961972</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-10 08:54:41</sys_updated_on><sys_user_role display_value="x_437100_arc_cmdb.user" name="x_437100_arc_cmdb.user">7e0d0f9edb220010b0235c7a48961929</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-159279488</payload_hash>
+        <record_name>x_437100_arc_cmdb_application_lookup_cdo_delivery_model.x_437100_arc_cmdb.user</record_name>
+        <reverted_from/>
+        <source>430d0f9edb220010b0235c7a489619bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-10 08:54:41</sys_created_on>
+        <sys_id>42246a3ddb111010b0235c7a48961975</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1729d7048f70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-10 08:54:41</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>4a246a3dbd1110107d751974af150b74</update_guid>
+        <update_guid_history>4a246a3dbd1110107d751974af150b74:-159279488</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_437100_arc_cmdb_application_lookup_cdo_delivery_model.x_437100_arc_cmdb.user">61c5aea3db525010b0235c7a48961940</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-04 12:33:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>2fb2c150618f45a8a7e8df84e9dadac4</sys_id>
+        <sys_metadata>c6246a3ddb111010b0235c7a48961972</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_437100_arc_cmdb_application_lookup_cdo_delivery_model.x_437100_arc_cmdb.user</sys_name>
+        <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+        <sys_parent display_value="">c6246a3ddb111010b0235c7a4896196f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+        <sys_scope_delete display_value="">19facf94bce04a3285621ed584e50559</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_c6246a3ddb111010b0235c7a48961972</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_c6246a3ddb111010b0235c7a48961972">42246a3ddb111010b0235c7a48961975</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-04 12:33:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="technology_stack" table="x_437100_arc_cmdb_applications" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>technology_stack</element>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:54:39</sys_created_on>
+            <sys_id>aaba2f05db4e5010b0235c7a489619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>technology_stack</sys_name>
+            <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+            <sys_update_name>sys_choice_x_437100_arc_cmdb_applications_technology_stack</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:54:39</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>.net</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:54:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d09a6785db4e5010b0235c7a489619aa</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:54:42</sys_updated_on>
+            <value>.net</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1. Not Provided in Application Registry (AR)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:54:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>baba2fc1db4e5010b0235c7a48961928</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:54:53</sys_updated_on>
+            <value>1. Not Provided in Application Registry (AR)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2. Not Provided in Team Foundation Server (TFS)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:55:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25ca6785db4e5010b0235c7a4896199b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:55:06</sys_updated_on>
+            <value>2. Not Provided in Team Foundation Server (TFS)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3. Not Found During Code Review (CR)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:55:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64da2bc1db4e5010b0235c7a489619a7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:55:18</sys_updated_on>
+            <value>3. Not Found During Code Review (CR)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4. Not Provided in COTS Documentation (COTSD)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:55:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77da6785db4e5010b0235c7a489619b6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:55:28</sys_updated_on>
+            <value>4. Not Provided in COTS Documentation (COTSD)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5. Not Provided during SME Interview (SMEI)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:55:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82ea6785db4e5010b0235c7a4896199c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:55:40</sys_updated_on>
+            <value>5. Not Provided during SME Interview (SMEI)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6. Not Provided by any Authoritative Source</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:55:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c1faab85db4e5010b0235c7a48961985</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:55:52</sys_updated_on>
+            <value>6. Not Provided by any Authoritative Source</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Action Script</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:56:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f7fa2b85db4e5010b0235c7a4896191e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:56:02</sys_updated_on>
+            <value>Action Script</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Apex</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:56:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>560b2b85db4e5010b0235c7a4896191f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:56:14</sys_updated_on>
+            <value>Apex</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:56:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>911b2bc1db4e5010b0235c7a489619a9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:56:20</sys_updated_on>
+            <value>C</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C++</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:56:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e1beb85db4e5010b0235c7a489619a8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:56:31</sys_updated_on>
+            <value>C++</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>COBOL</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:56:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>252b2b85db4e5010b0235c7a489619e8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:56:41</sys_updated_on>
+            <value>COBOL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CSS</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:56:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>772bab85db4e5010b0235c7a48961988</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:56:52</sys_updated_on>
+            <value>CSS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DOS</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:57:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e23bab85db4e5010b0235c7a48961989</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:57:03</sys_updated_on>
+            <value>DOS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fortran</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:57:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d4beb85db4e5010b0235c7a48961948</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:57:14</sys_updated_on>
+            <value>Fortran</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Java</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:58:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64abaf85db4e5010b0235c7a48961907</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:58:44</sys_updated_on>
+            <value>Java</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JavaScript</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:59:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5aba3c5db4e5010b0235c7a489619c8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:59:20</sys_updated_on>
+            <value>JavaScript</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Netweaver</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f6cbe3c5db4e5010b0235c7a489619bc</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:59:29</sys_updated_on>
+            <value>Netweaver</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>N\A</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:59:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>45dbe3c5db4e5010b0235c7a489619bd</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:59:42</sys_updated_on>
+            <value>N\A</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open Source</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 12:59:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>47db27c5db4e5010b0235c7a489619b5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 12:59:54</sys_updated_on>
+            <value>Open Source</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 13:00:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cbeba7c5db4e5010b0235c7a4896192d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 13:00:03</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Perl</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 13:00:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9fbef85db4e5010b0235c7a489619f2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 13:00:11</sys_updated_on>
+            <value>Perl</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PHP</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 13:00:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5bfba7c5db4e5010b0235c7a4896192e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 13:00:18</sys_updated_on>
+            <value>PHP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PL\SQL</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 13:00:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e80ca3c5db4e5010b0235c7a489619d2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 13:00:28</sys_updated_on>
+            <value>PL\SQL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Python</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 13:00:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f0ce7c5db4e5010b0235c7a489619ed</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 13:00:43</sys_updated_on>
+            <value>Python</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ruby</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 13:00:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4f1ce7c5db4e5010b0235c7a489619e4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 13:00:52</sys_updated_on>
+            <value>Ruby</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Shell</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 13:00:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d92ce7c5db4e5010b0235c7a489619e5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 13:01:01</sys_updated_on>
+            <value>Shell</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SQL</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 13:01:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f2c67c5db4e5010b0235c7a489619b9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 13:01:11</sys_updated_on>
+            <value>SQL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TBD</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 13:01:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d3c67c5db4e5010b0235c7a4896190c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 13:01:19</sys_updated_on>
+            <value>TBD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VB6</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 13:01:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>573ce7c5db4e5010b0235c7a48961955</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 13:01:33</sys_updated_on>
+            <value>VB6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VBA</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 13:01:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f24ce7c5db4e5010b0235c7a48961956</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 13:01:42</sys_updated_on>
+            <value>VBA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Visual Basic</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 13:01:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d95cabc5db4e5010b0235c7a48961909</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 13:01:51</sys_updated_on>
+            <value>Visual Basic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>technology_stack</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Windows PowerShell</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 13:01:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6b5cabc5db4e5010b0235c7a4896190a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 13:02:00</sys_updated_on>
+            <value>Windows PowerShell</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

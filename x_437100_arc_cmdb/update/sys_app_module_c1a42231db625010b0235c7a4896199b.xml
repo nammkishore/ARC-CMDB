@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="ARC-CMDB Application">c46bfb7fdb9e5010b0235c7a48961963</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Application Server Dependencies</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_437100_arc_cmdb_new_appconfig_account_types</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_437100_arc_cmdb.ARC-CMDB-Admin,x_437100_arc_cmdb.ARC-CMDB-Write,x_437100_arc_cmdb.ARC-CMDB-Read</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-11 12:15:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c1a42231db625010b0235c7a4896199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New AppConfig-Account Types</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+        <sys_update_name>sys_app_module_c1a42231db625010b0235c7a4896199b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-11 12:15:16</sys_updated_on>
+        <timeline_page/>
+        <title>New AppConfig-Account Types</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-10 09:10:46</sys_created_on>
+        <sys_id>5db03c6ddb621010b0235c7a489619f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_437100_arc_cmdb_applications.x_437100_arc_cmdb..ARC-CMDB-Write</sys_name>
+        <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+        <sys_security_acl display_value="x_437100_arc_cmdb_applications">5976d43edba24010b0235c7a489619bc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5db03c6ddb621010b0235c7a489619f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-10 09:10:46</sys_updated_on>
+        <sys_user_role display_value="x_437100_arc_cmdb.ARC-CMDB-Write" name="x_437100_arc_cmdb.ARC-CMDB-Write">e1ad9061db621010b0235c7a489619c4</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

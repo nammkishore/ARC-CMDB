@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Application: Lookup_Group Nesting" max_length="40" name="x_437100_arc_cmdb_group_nesting_lookup" sizeclass="10" type="collection">
+        <element display="true" label="GroupOption" max_length="255" name="groupoption" type="string"/>
+        <element label="ID" max_length="40" name="id" type="integer"/>
+    </element>
+</database>

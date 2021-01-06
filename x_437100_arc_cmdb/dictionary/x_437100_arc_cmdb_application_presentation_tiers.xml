@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Application Presentation Tiers" max_length="40" name="x_437100_arc_cmdb_application_presentation_tiers" sizeclass="446" type="collection">
+        <element choice="1" label="AppId" max_length="255" name="appid" reference="x_437100_arc_cmdb_applications" type="reference">
+            <choice/>
+        </element>
+        <element label="Notes" max_length="1000" name="notes" type="string"/>
+        <element label="PresentationTier" max_length="255" name="presentationtier" type="string"/>
+        <element label="UNCPath" max_length="255" name="uncpath" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="New AppConfig-GPO Dependencies" max_length="40" name="x_437100_arc_cmdb_new_appconfig_gpo_dependencies" sizeclass="2" type="collection">
+        <element choice="1" label="AppId" max_length="32" name="appid" reference="x_437100_arc_cmdb_applications" type="reference">
+            <choice/>
+        </element>
+        <element label="GPO Domain" max_length="255" name="gpo_domain" type="string"/>
+        <element label="GPO Name" max_length="40" name="gpo_name" type="string"/>
+        <element label="Is GPO Hardcoded?" max_length="40" name="is_gpo_hardcoded" type="string"/>
+        <element label="Notes" max_length="1000" name="notes" type="string"/>
+        <index name="index">
+            <element name="appid"/>
+        </index>
+    </element>
+</database>

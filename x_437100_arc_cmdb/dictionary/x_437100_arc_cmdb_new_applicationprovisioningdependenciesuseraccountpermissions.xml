@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="New ApplicationProvisioningDependenciesUserAccountPermissions" max_length="40" name="x_437100_arc_cmdb_new_applicationprovisioningdependenciesuseraccountpermissions" sizeclass="280" type="collection">
+        <element label="AccountType" max_length="255" name="accounttype" type="string"/>
+        <element label="AccountTypeDomain" max_length="255" name="accounttypedomain" type="string"/>
+        <element label="ADGroupHardcoded" max_length="40" name="adgrouphardcoded" type="string"/>
+        <element label="ADGroupHardcodedStatus" max_length="40" name="adgrouphardcodedstatus" type="string"/>
+        <element label="ADSecurityGroup" max_length="255" name="adsecuritygroup" type="string"/>
+        <element label="ADSecurityGroupDomain" max_length="255" name="adsecuritygroupdomain" type="string"/>
+        <element choice="1" label="AppId" max_length="32" name="appid" reference="x_437100_arc_cmdb_applications" type="reference">
+            <choice/>
+        </element>
+        <element label="ApplicationPermission" max_length="255" name="applicationpermission" type="string"/>
+        <element label="IsADSecurityGroupHardCoded" max_length="40" name="isadsecuritygrouphardcoded" type="string"/>
+        <element label="NotatedADGroup(s)Status" max_length="40" name="notatedadgroup_s_status" type="string"/>
+        <element label="Notes" max_length="1000" name="notes" type="string"/>
+        <element label="SecurityRole" max_length="255" name="securityrole" type="string"/>
+        <index name="index">
+            <element name="appid"/>
+        </index>
+    </element>
+</database>

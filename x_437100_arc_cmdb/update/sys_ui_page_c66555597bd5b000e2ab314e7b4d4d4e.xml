@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script><![CDATA[function selectedToString(listBox,all,hidden) {
+   if (typeof listBox === "string") {
+      listBox = document.getElementById(listBox);
+   }
+   if (typeof hidden === "string") {
+      hidden = document.getElementById(hidden);
+   }
+   if (!(listBox || listBox.options)) {
+      throw Error("No options");
+   }
+   var options=[],opt;
+   for (var i=0, l=listBox.options.length; i < l; ++i) {
+      opt = listBox.options[i];
+      if (all || opt.selected ) {
+         options.push(opt.value);
+		 opt.selected = false;
+      }
+   }
+   hidden.value=options.join(",");
+   document.body.removeChild(listBox);
+}]]></client_script>
+        <description>A GUI Tool that allows you to select a number of tables in the system and export all of their data into an Update Set file.</description>
+        <direct>false</direct>
+        <endpoint>x_437100_arc_cmdb_export_tables.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+<div style='width: 500px; margin-left:auto; margin-right:auto; border: 1px solid gray;'>
+
+<div style='background-color:#ABBBD6; font-family:Arial,Verdana,Trebuchet MS; font-size: .9em;padding: 20px;'>
+Export the data within select tables into the ServiceNow "Update Set" file format.  Once you download the data, you can easily load it into another ServiceNow instance.  Please use caution when exporting data as this can put a heavy load on your instance if you export irresponsibly.  <br/>
+Please use at your own risk!  Exporting data from certain ServiceNow tables could corrupt another ServiceNow instance.  Only export data from tables that you fully understand.
+</div>
+<div style='background-color:#D6D6D6; padding: 20px;'>
+<g2:evaluate>
+  var dict = new GlideRecord("sys_dictionary");
+  dict.addEncodedQuery("internal_type=collection");
+  dict.orderBy("name");
+  dict.query(); 
+  dict.next();
+</g2:evaluate>
+
+<form method='get' action='export_table_data.do'>
+  <span style='padding-right: 10px;'>Filename: </span><input type='text' name='filename' id='textFilename' style='margin-right:4px;'/>.xml<br/>
+  Select the tables to export (Use Shift or Ctrl to select multiple):<br/>
+  <select multiple='true' size='10' name='tables' id='tableList' style='width:100%;'>
+<j2:while test="$[dict.next()]">
+  <option value='$[dict.name]'>$[dict.name]</option>
+</j2:while>
+  </select>
+  <div style='padding: 10px; text-align:right;'>
+    <input type='submit' name='submit' value='Submit' onclick='selectedToString("tableList", false, "tablesCSV")'/>
+  </div>
+  <input type='hidden' name='tablesCSV' id='tablesCSV'/>
+</form>
+</div>
+
+</div>
+</j:jelly>]]></html>
+        <name>export_tables</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>john.andersen@snc</sys_created_by>
+        <sys_created_on>2012-10-24 19:24:43</sys_created_on>
+        <sys_id>c66555597bd5b000e2ab314e7b4d4d4e</sys_id>
+        <sys_mod_count>54</sys_mod_count>
+        <sys_name>export_tables</sys_name>
+        <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+        <sys_update_name>sys_ui_page_c66555597bd5b000e2ab314e7b4d4d4e</sys_update_name>
+        <sys_updated_by>john.andersen@snc</sys_updated_by>
+        <sys_updated_on>2012-10-25 18:26:49</sys_updated_on>
+    </sys_ui_page>
+</record_update>

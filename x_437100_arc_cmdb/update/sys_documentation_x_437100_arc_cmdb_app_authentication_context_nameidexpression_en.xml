@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="nameidexpression" label="Name ID Expression" language="en" table="x_437100_arc_cmdb_app_authentication_context">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>nameidexpression</element>
+            <help/>
+            <hint/>
+            <label>Name ID Expression</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_app_authentication_context</name>
+            <plural>Name ID Expressions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-31 09:14:20</sys_created_on>
+            <sys_id>17b111d6db521010b0235c7a4896191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Name ID Expression</sys_name>
+            <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+            <sys_update_name>sys_documentation_x_437100_arc_cmdb_app_authentication_context_nameidexpression_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-31 09:14:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

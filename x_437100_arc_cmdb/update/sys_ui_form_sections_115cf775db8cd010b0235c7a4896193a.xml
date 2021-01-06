@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="115cf775db8cd010b0235c7a4896193a" sys_domain="global" table="x_437100_arc_cmdb_applications" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-09 12:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd5cf775db8cd010b0235c7a4896193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_437100_arc_cmdb_applications" name="x_437100_arc_cmdb_applications" sys_domain="global" view="0b4bf735db8cd010b0235c7a489619c4">115cf775db8cd010b0235c7a4896193a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applications" sys_domain="global" view="0b4bf735db8cd010b0235c7a489619c4">0f4bf735db8cd010b0235c7a489619c7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-09 12:01:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-09 12:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d95cf775db8cd010b0235c7a4896193d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_437100_arc_cmdb_applications" name="x_437100_arc_cmdb_applications" sys_domain="global" view="0b4bf735db8cd010b0235c7a489619c4">115cf775db8cd010b0235c7a4896193a</sys_ui_form>
+            <sys_ui_section caption="Application Installation Model" display_value="Application Installation Model" name="x_437100_arc_cmdb_applications" sys_domain="global" view="0b4bf735db8cd010b0235c7a489619c4">915cf775db8cd010b0235c7a48961937</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-09 12:01:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-09 12:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>115cf775db8cd010b0235c7a48961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_437100_arc_cmdb_applications" name="x_437100_arc_cmdb_applications" sys_domain="global" view="0b4bf735db8cd010b0235c7a489619c4">115cf775db8cd010b0235c7a4896193a</sys_ui_form>
+            <sys_ui_section caption="Application Authentication Model" display_value="Application Authentication Model" name="x_437100_arc_cmdb_applications" sys_domain="global" view="0b4bf735db8cd010b0235c7a489619c4">1d5cf775db8cd010b0235c7a48961937</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-09 12:01:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-09 12:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d55cf775db8cd010b0235c7a48961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_437100_arc_cmdb_applications" name="x_437100_arc_cmdb_applications" sys_domain="global" view="0b4bf735db8cd010b0235c7a489619c4">115cf775db8cd010b0235c7a4896193a</sys_ui_form>
+            <sys_ui_section caption="Application Permission Model" display_value="Application Permission Model" name="x_437100_arc_cmdb_applications" sys_domain="global" view="0b4bf735db8cd010b0235c7a489619c4">955cf775db8cd010b0235c7a48961938</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-09 12:01:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-09 12:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a15cf775db8cd010b0235c7a48961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_437100_arc_cmdb_applications" name="x_437100_arc_cmdb_applications" sys_domain="global" view="0b4bf735db8cd010b0235c7a489619c4">115cf775db8cd010b0235c7a4896193a</sys_ui_form>
+            <sys_ui_section caption="Application Recoding Assessment" display_value="Application Recoding Assessment" name="x_437100_arc_cmdb_applications" sys_domain="global" view="0b4bf735db8cd010b0235c7a489619c4">115cf775db8cd010b0235c7a48961939</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-09 12:01:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_437100_arc_cmdb_applications</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-09 12:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>115cf775db8cd010b0235c7a4896193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_437100_arc_cmdb_applications</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_115cf775db8cd010b0235c7a4896193a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-09 12:01:26</sys_updated_on>
+            <sys_user/>
+            <view display_value="Application Provisioning Model by App" name="Application_Provisioning_Model_by_App">0b4bf735db8cd010b0235c7a489619c4</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

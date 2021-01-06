@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="SubDepartment_IG Role_AppId_Staging" max_length="40" name="x_437100_arc_cmdb_subdepartment_ig_role_appid_staging" sizeclass="0" type="collection">
+        <element attributes="import_attribute_name=AppID" label="AppID" max_length="40" name="u_appid" type="integer"/>
+        <element attributes="import_attribute_name=ID" label="ID" max_length="40" name="u_id" type="integer"/>
+        <element attributes="import_attribute_name=IG Role Name" label="IG Role Name" max_length="40" name="u_ig_role_name" type="integer"/>
+        <element attributes="import_attribute_name=Migration Order" label="Migration Order" max_length="40" name="u_migration_order" type="integer"/>
+        <element attributes="import_attribute_name=Sub Department" label="Sub Department" max_length="40" name="u_sub_department" type="integer"/>
+    </element>
+</database>

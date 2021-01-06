@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="ARC-CMDB">1576d43edba24010b0235c7a489619b6</application>
+        <filter/>
+        <name>Application: Lookup_MFA Solutions</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_437100_arc_cmdb.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-10 10:49:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9a6e32fddb511010b0235c7a489619f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application: Lookup_MFA Solutions</sys_name>
+        <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+        <sys_update_name>sys_ui_module_9a6e32fddb511010b0235c7a489619f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-10 10:49:23</sys_updated_on>
+        <table>x_437100_arc_cmdb_application_lookup_mfa_solution</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</application>
+        <file_path/>
+        <instance_id>faa61d43dbc9bfc442b321c4059619ff</instance_id>
+        <instance_name>dev84536</instance_name>
+        <name>sys_ui_module_9a6e32fddb511010b0235c7a489619f6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="ARC-CMDB">1576d43edba24010b0235c7a489619b6</application><filter/><name>Application: Lookup_MFA Solutions</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_437100_arc_cmdb.user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-10 10:49:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9a6e32fddb511010b0235c7a489619f6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Application: Lookup_MFA Solutions</sys_name><sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package><sys_policy/><sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope><sys_update_name>sys_ui_module_9a6e32fddb511010b0235c7a489619f6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-10 10:49:23</sys_updated_on><table>x_437100_arc_cmdb_application_lookup_mfa_solution</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>99581399</payload_hash>
+        <record_name>Application: Lookup_MFA Solutions</record_name>
+        <reverted_from/>
+        <source>430d0f9edb220010b0235c7a489619bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-10 10:49:23</sys_created_on>
+        <sys_id>166ebafddb511010b0235c7a489619bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1729dd94ee60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-10 10:49:23</sys_updated_on>
+        <type>Module</type>
+        <update_guid>1e6ebafdaa511010b4ae35f137437abb</update_guid>
+        <update_guid_history>1e6ebafdaa511010b4ae35f137437abb:99581399</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-04 12:32:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>05d550afd6ab4cad820a93beb9601ab9</sys_id>
+        <sys_metadata>9a6e32fddb511010b0235c7a489619f6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application: Lookup_MFA Solutions</sys_name>
+        <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+        <sys_scope_delete display_value="">19facf94bce04a3285621ed584e50559</sys_scope_delete>
+        <sys_update_name>sys_ui_module_9a6e32fddb511010b0235c7a489619f6</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_9a6e32fddb511010b0235c7a489619f6">166ebafddb511010b0235c7a489619bc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-04 12:32:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

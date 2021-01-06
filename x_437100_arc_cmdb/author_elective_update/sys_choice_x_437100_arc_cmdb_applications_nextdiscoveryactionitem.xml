@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="nextdiscoveryactionitem" table="x_437100_arc_cmdb_applications" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>nextdiscoveryactionitem</element>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 08:51:13</sys_created_on>
+            <sys_id>0926f653db0e5010b0235c7a48961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>nextdiscoveryactionitem</sys_name>
+            <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+            <sys_update_name>sys_choice_x_437100_arc_cmdb_applications_nextdiscoveryactionitem</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 08:51:13</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nextdiscoveryactionitem</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1. Perform additional discovery in the Application Registry (AR)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 08:51:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b2067e53db0e5010b0235c7a489619ae</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 08:51:19</sys_updated_on>
+            <value>1. Perform additional discovery in the Application Registry (AR)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nextdiscoveryactionitem</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2. Perform additional discovery in Team Foundation Server (TFS)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 08:51:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8926fa53db0e5010b0235c7a48961942</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 08:51:33</sys_updated_on>
+            <value>2. Perform additional discovery in Team Foundation Server (TFS)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nextdiscoveryactionitem</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3. Perform another Alt-Code Repository Review (CR)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 08:51:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>85367e53db0e5010b0235c7a489619b3</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 08:51:48</sys_updated_on>
+            <value>3. Perform another Alt-Code Repository Review (CR)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nextdiscoveryactionitem</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4. Perform additional discovery of the COTS Documentation (COTSD)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 08:51:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b846fe53db0e5010b0235c7a4896193e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 08:52:00</sys_updated_on>
+            <value>4. Perform additional discovery of the COTS Documentation (COTSD)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nextdiscoveryactionitem</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5. Schedule another SME Interview (SMEI)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 08:52:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73467e53db0e5010b0235c7a489619e7</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 08:52:12</sys_updated_on>
+            <value>5. Schedule another SME Interview (SMEI)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nextdiscoveryactionitem</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TBD</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 08:52:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e6567293db0e5010b0235c7a4896195d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 08:52:21</sys_updated_on>
+            <value>TBD</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

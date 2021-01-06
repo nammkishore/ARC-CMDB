@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="publicallyaccesible" table="x_437100_arc_cmdb_app_authentication_context" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>publicallyaccesible</element>
+            <name>x_437100_arc_cmdb_app_authentication_context</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-31 07:33:36</sys_created_on>
+            <sys_id>fbaab8d6db121010b0235c7a4896190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>publicallyaccesible</sys_name>
+            <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+            <sys_update_name>sys_choice_x_437100_arc_cmdb_app_authentication_context_publicallyaccesible</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-31 07:33:36</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>publicallyaccesible</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dev Only</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_app_authentication_context</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-31 07:33:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b9aa78d6db121010b0235c7a4896191b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-31 07:33:40</sys_updated_on>
+            <value>Dev Only</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>publicallyaccesible</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes Via AppStore w\credentials</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_app_authentication_context</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-31 07:34:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04ba3896db121010b0235c7a4896190c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-31 07:34:28</sys_updated_on>
+            <value>Yes Via AppStore w\credentials</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>publicallyaccesible</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes via Mobile AppStore w\credentials</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_app_authentication_context</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-31 07:34:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63da3cd6db121010b0235c7a4896196d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-31 07:34:40</sys_updated_on>
+            <value>Yes via Mobile AppStore w\credentials</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>publicallyaccesible</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes w\2FA</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_app_authentication_context</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-31 07:34:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>26eaf8d6db121010b0235c7a489619be</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-31 07:34:52</sys_updated_on>
+            <value>Yes w\2FA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>publicallyaccesible</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes w\credentials</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_app_authentication_context</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-31 07:35:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5fa3896db121010b0235c7a48961910</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-31 07:35:05</sys_updated_on>
+            <value>Yes w\credentials</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

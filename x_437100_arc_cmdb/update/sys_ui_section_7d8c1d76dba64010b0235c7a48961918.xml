@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="7d8c1d76dba64010b0235c7a48961918" sys_domain="global" table="x_437100_arc_cmdb_applicationtable" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>8e8c997adba64010b0235c7a4896192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_2016ertappname</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>8a8c997adba64010b0235c7a4896192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_contains_pci</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>028c997adba64010b0235c7a4896192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_entitlementrequired</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>868c997adba64010b0235c7a4896192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_applicationcodelanguage</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>0e8c997adba64010b0235c7a4896192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>828c997adba64010b0235c7a4896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_id</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>0a8c997adba64010b0235c7a4896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_iswebapp</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>8e8c997adba64010b0235c7a4896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_app_dev_related</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>068c997adba64010b0235c7a4896192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>8a8c997adba64010b0235c7a4896192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_postdiscoverynotes</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>028c997adba64010b0235c7a4896192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>868c997adba64010b0235c7a4896192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_business_unit</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>0e8c997adba64010b0235c7a4896192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_specificuseraccount</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>828c997adba64010b0235c7a48961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_adgroupnesting</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>0a8c997adba64010b0235c7a48961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_userauthenticationmethod</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>8e8c997adba64010b0235c7a48961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_applicationa_sibilitydomain</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>068c997adba64010b0235c7a48961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_databasesecuritymodel</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>8a8c997adba64010b0235c7a48961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_applicationtype</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>028c997adba64010b0235c7a48961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_ntt_data_opportunity</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>868c997adba64010b0235c7a48961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>0e8c997adba64010b0235c7a48961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_basic_intake_next_action</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>828c997adba64010b0235c7a48961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_2016_entitle_vey_completion</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>0a8c997adba64010b0235c7a48961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_adsecuritymodel</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>8e8c997adba64010b0235c7a48961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u__ofcdo_sperapp</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>068c997adba64010b0235c7a48961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_is3rdparty</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>8a8c997adba64010b0235c7a48961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_applicationnameaka</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>c68c997adba64010b0235c7a48961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_application_recoding_option</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>4e8c997adba64010b0235c7a48961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_nextdiscoveryactionitem</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>c28c997adba64010b0235c7a48961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>4a8c997adba64010b0235c7a48961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_app_registry_comments</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>ce8c997adba64010b0235c7a48961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>31</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>468c997adba64010b0235c7a48961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_capability</element>
+            <position>32</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>ca8c997adba64010b0235c7a48961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_technicalsme</element>
+            <position>33</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>428c997adba64010b0235c7a48961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_adgrouppermissioncapability</element>
+            <position>34</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>c68c997adba64010b0235c7a48961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_common_name</element>
+            <position>35</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>4e8c997adba64010b0235c7a48961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_applicationcategory</element>
+            <position>36</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>c28c997adba64010b0235c7a48961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_discoverysheetcreated</element>
+            <position>37</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>4a8c997adba64010b0235c7a48961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_applicationid</element>
+            <position>38</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>ce8c997adba64010b0235c7a48961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_application_designation</element>
+            <position>39</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>468c997adba64010b0235c7a48961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>40</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>ca8c997adba64010b0235c7a48961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_lower_enviro_latform_status</element>
+            <position>41</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>428c997adba64010b0235c7a48961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_relatedappids</element>
+            <position>42</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>c68c997adba64010b0235c7a48961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_contains_pii</element>
+            <position>43</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>4e8c997adba64010b0235c7a48961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_applicationdesignation</element>
+            <position>44</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>c28c997adba64010b0235c7a48961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_applicationrecodingoption</element>
+            <position>45</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>4a8c997adba64010b0235c7a48961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_itstaffappaccess</element>
+            <position>46</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>ce8c997adba64010b0235c7a48961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_ask_global_id</element>
+            <position>47</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>468c997adba64010b0235c7a48961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>48</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>ca8c997adba64010b0235c7a48961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_quickinstalllink</element>
+            <position>49</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>428c997adba64010b0235c7a4896194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cdobyappid</element>
+            <position>50</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>c68c997adba64010b0235c7a4896194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_tfsreponame</element>
+            <position>51</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>4e8c997adba64010b0235c7a4896194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>52</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>c28c997adba64010b0235c7a4896194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_adgrouppermissions</element>
+            <position>53</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>4a8c997adba64010b0235c7a4896194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u__multipleaccountsreq</element>
+            <position>54</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>ce8c997adba64010b0235c7a4896194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_applicationname</element>
+            <position>55</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>468c997adba64010b0235c7a4896194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>56</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>ca8c997adba64010b0235c7a4896194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_application_group</element>
+            <position>57</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>428c997adba64010b0235c7a4896194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_nammcdosecuritymodel</element>
+            <position>58</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>c68c997adba64010b0235c7a4896194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_claims_platf_lary_app_areas</element>
+            <position>59</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>4e8c997adba64010b0235c7a4896194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>60</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>c28c997adba64010b0235c7a4896194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_final_discovery_notes</element>
+            <position>61</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>4a8c997adba64010b0235c7a4896194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>62</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>ce8c997adba64010b0235c7a4896194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_applicationdomain</element>
+            <position>63</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>468c997adba64010b0235c7a4896194f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_iscommonloginforeveryuser</element>
+            <position>64</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>ca8c997adba64010b0235c7a4896194f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_localclientconfig</element>
+            <position>65</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>428c997adba64010b0235c7a48961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>66</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>c68c997adba64010b0235c7a48961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_apppermissionsreq</element>
+            <position>67</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>4e8c997adba64010b0235c7a48961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_quickinstalllinkstatus</element>
+            <position>68</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>c28c997adba64010b0235c7a48961951</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>69</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>4a8c997adba64010b0235c7a48961951</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_citrixxengroupname</element>
+            <position>70</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>ce8c997adba64010b0235c7a48961951</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>71</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>468c997adba64010b0235c7a48961952</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_totalcdolist</element>
+            <position>72</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>ca8c997adba64010b0235c7a48961952</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_contains_phi</element>
+            <position>73</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>428c997adba64010b0235c7a48961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>74</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>c68c997adba64010b0235c7a48961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_entitlement_candidate</element>
+            <position>75</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>4e8c997adba64010b0235c7a48961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>76</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>c28c997adba64010b0235c7a48961954</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_applicationdesc</element>
+            <position>77</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>4a8c997adba64010b0235c7a48961954</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_iswindowsauthenticationused</element>
+            <position>78</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>ce8c997adba64010b0235c7a48961954</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_preliminarynotes</element>
+            <position>79</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>468c997adba64010b0235c7a48961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>80</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>ca8c997adba64010b0235c7a48961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_userconfiguration</element>
+            <position>81</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>428c997adba64010b0235c7a48961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_hosted_externally</element>
+            <position>82</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>c68c997adba64010b0235c7a48961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_islicenserequired</element>
+            <position>83</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>4e8c997adba64010b0235c7a48961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_appspecificacct</element>
+            <position>84</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>c28c997adba64010b0235c7a48961957</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_optumlcdapp</element>
+            <position>85</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>4a8c997adba64010b0235c7a48961957</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_business_process_name</element>
+            <position>86</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>ce8c997adba64010b0235c7a48961957</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_accountablebusinessowner</element>
+            <position>87</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>468c997adba64010b0235c7a48961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>88</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>ca8c997adba64010b0235c7a48961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_claims_platf_isio_non_wheel</element>
+            <position>89</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>428c997adba64010b0235c7a48961959</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_underlyingdatabase</element>
+            <position>90</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>c68c997adba64010b0235c7a48961959</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_applicationarchitecture</element>
+            <position>91</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>4e8c997adba64010b0235c7a48961959</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_exposed_externally</element>
+            <position>92</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>c28c997adba64010b0235c7a4896195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_isavailableinnammcitrix</element>
+            <position>93</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>4a8c997adba64010b0235c7a4896195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_application_status</element>
+            <position>94</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>ce8c997adba64010b0235c7a4896195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_nonitstaffappaccess</element>
+            <position>95</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>468c997adba64010b0235c7a4896195b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>96</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_id>ca8c997adba64010b0235c7a4896195b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_applicationtable" sys_domain="global" view="Default view">7d8c1d76dba64010b0235c7a48961918</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_437100_arc_cmdb_applicationtable</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 13:22:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d8c1d76dba64010b0235c7a48961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_437100_arc_cmdb_applicationtable</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+            <sys_update_name>sys_ui_section_7d8c1d76dba64010b0235c7a48961918</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 13:22:59</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

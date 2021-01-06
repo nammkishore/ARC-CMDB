@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="App Authentication Context" max_length="40" name="x_437100_arc_cmdb_app_authentication_context" sizeclass="34" type="collection">
+        <element choice="1" label="AppId" max_length="32" name="appid" reference="x_437100_arc_cmdb_applications" type="reference">
+            <choice/>
+        </element>
+        <element choice="1" label="Application Level: Auth Attr" max_length="32" name="application_level_auth_attr" reference="x_437100_arc_cmdb_application_lookup_namm_cdo_domain_sso_authentication" type="reference">
+            <choice/>
+        </element>
+        <element label="Assertion URL" max_length="255" name="assertion_url" type="string"/>
+        <element label="Attribute # 1: Value" max_length="40" name="attribute_1_value" type="string"/>
+        <element label="Audience" max_length="40" name="audience" type="string"/>
+        <element choice="1" label="Authentication Domain" max_length="40" name="authenticationdomain" type="string">
+            <choice>
+                <element inactive_on_update="false" label="NAMMCAL &amp; NAMMNET" sequence="1" value="NAMMCAL &amp; NAMMNET"/>
+                <element inactive_on_update="false" label="NAMMNET" sequence="2" value="NAMMNET"/>
+                <element inactive_on_update="false" label="Unspecified" sequence="3" value="Unspecified"/>
+                <element inactive_on_update="false" label="N\A" sequence="4" value="N\A"/>
+            </choice>
+        </element>
+        <element label="Auth Attribute #1" max_length="40" name="auth_attribute_1" type="string"/>
+        <element label="Auth Attribute #1:  AD Group Name" max_length="100" name="auth_attribute_1_ad_group_name" type="string"/>
+        <element choice="1" label="CDO Delivery Model" max_length="40" name="cdodeliverymodel" type="string">
+            <choice>
+                <element inactive_on_update="false" label="CDO (Exclusive)" sequence="1" value="CDO (Exclusive)"/>
+                <element inactive_on_update="false" label="CDO (Shared)" sequence="2" value="CDO (Shared)"/>
+            </choice>
+        </element>
+        <element choice="1" label="CDO Delivery Population" max_length="60" name="cdodeliverypopulation" type="string">
+            <choice>
+                <element inactive_on_update="false" label="NAMM CDO - External Providers" sequence="1" value="NAMM CDO - External Providers"/>
+                <element inactive_on_update="false" label="NAMM CDO - Internal Staff" sequence="2" value="NAMM CDO - Internal Staff"/>
+                <element inactive_on_update="false" label="OCNCT CDO - External Providers" sequence="3" value="OCNCT CDO - External Providers"/>
+                <element inactive_on_update="false" label="OCNCT CDO - Internal Staff" sequence="4" value="OCNCT CDO - Internal Staff"/>
+            </choice>
+        </element>
+        <element choice="1" label="CT Netscaler Access" max_length="80" name="ctnetscaleraccess" type="string">
+            <choice>
+                <element inactive_on_update="false" label="N\A" sequence="1" value="N\A"/>
+                <element inactive_on_update="false" label="Icon not available in CT Netscaler" sequence="2" value="Icon not available in CT Netscaler"/>
+                <element inactive_on_update="false" label="Icon accessible from CT Netscaler" sequence="3" value="Icon accessible from CT Netscaler"/>
+                <element inactive_on_update="false" label="No Icon access by population" sequence="4" value="No Icon access by population"/>
+                <element inactive_on_update="false" label="These domain accts dont access the CT Netscaler Icon" sequence="5" value="These domain accts dont access the CT Netscaler Icon"/>
+            </choice>
+        </element>
+        <element choice="1" label="Expression Attribute (AD) Description" max_length="40" name="expressionattributeaddescription" type="string">
+            <choice>
+                <element inactive_on_update="false" label="userPrincipleName" sequence="1" value="userPrincipleName"/>
+                <element inactive_on_update="false" label="sAMaccountName" sequence="2" value="sAMaccountName"/>
+                <element inactive_on_update="false" label="(TBC) sAMaccountName" sequence="3" value="(TBC) sAMaccountName"/>
+                <element inactive_on_update="false" label="Company Name" sequence="4" value="Company Name"/>
+                <element inactive_on_update="false" label="mail" sequence="5" value="mail"/>
+                <element inactive_on_update="false" label="N\A" sequence="6" value="N\A"/>
+            </choice>
+        </element>
+        <element choice="1" label="Identity Provider - Company" max_length="60" name="identityprovidercompany" type="string">
+            <choice>
+                <element inactive_on_update="false" label="NAMM California" sequence="1" value="NAMM California"/>
+            </choice>
+        </element>
+        <element choice="1" label="IdP Source by Domain" max_length="40" name="idpsourcebydomain" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Active Directory - NAMMCAL Domain" sequence="1" value="Active Directory - NAMMCAL Domain"/>
+                <element inactive_on_update="false" label="Active Directory - NAMMNET Domain" sequence="2" value="Active Directory - NAMMNET Domain"/>
+            </choice>
+        </element>
+        <element label="IDP Cert" max_length="100" name="idp_cert" type="string"/>
+        <element label="Issuer Name" max_length="40" name="issuer_name" type="string"/>
+        <element label="Logout URL" max_length="255" name="logout_url" type="string"/>
+        <element choice="1" label="MFA Scope - Status" max_length="40" name="mfascopestatus" type="string">
+            <choice>
+                <element inactive_on_update="false" label="In-Scope for MFA" sequence="1" value="In-Scope for MFA"/>
+                <element inactive_on_update="false" label="MFA Scope TBD" sequence="2" value="MFA Scope TBD"/>
+                <element inactive_on_update="false" label="Out of Scope for MFA" sequence="3" value="Out of Scope for MFA"/>
+            </choice>
+        </element>
+        <element choice="1" label="MFA Solution" max_length="40" name="mfasolution" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Confirm Robert\Tim Solution" sequence="1" value="Confirm Robert\Tim Solution"/>
+                <element inactive_on_update="false" label="Starling 2FA" sequence="2" value="Starling 2FA"/>
+                <element inactive_on_update="false" label="TBD" sequence="3" value="TBD"/>
+                <element inactive_on_update="false" label="N\A" sequence="4" value="N\A"/>
+            </choice>
+        </element>
+        <element choice="1" label="Name ID Expression" max_length="40" name="nameidexpression" type="string">
+            <choice>
+                <element inactive_on_update="false" label="http.req.user.attribute(1)" sequence="1" value="http.req.user.attribute(1)"/>
+                <element inactive_on_update="false" label="http.req.user.attribute(2)" sequence="2" value="http.req.user.attribute(2)"/>
+                <element inactive_on_update="false" label="http.req.user.attribute(3)" sequence="3" value="http.req.user.attribute(3)"/>
+                <element inactive_on_update="false" label="http.req.user.attribute(4)" sequence="4" value="http.req.user.attribute(4)"/>
+                <element inactive_on_update="false" label="(TBC) http.req.user.attribute(3)" sequence="5" value="(TBC) http.req.user.attribute(3)"/>
+                <element inactive_on_update="false" label="Unspecified" sequence="6" value="Unspecified"/>
+                <element inactive_on_update="false" label="N\A" sequence="7" value="N\A"/>
+            </choice>
+        </element>
+        <element label="Name ID Format" max_length="40" name="name_id_format" type="string"/>
+        <element choice="1" label="NAMM Citrix Access" max_length="40" name="nammcitrixaccess" type="string">
+            <choice>
+                <element inactive_on_update="false" label="N\A" sequence="1" value="N\A"/>
+                <element inactive_on_update="false" label="Icon Accessible from NAMM Citrix" sequence="2" value="Icon Accessible from NAMM Citrix"/>
+                <element inactive_on_update="false" label="Web Accessible from NAMM Citrix" sequence="3" value="Web Accessible from NAMM Citrix"/>
+                <element inactive_on_update="false" label="Configurable" sequence="4" value="Configurable"/>
+                <element inactive_on_update="false" label="Population does not use NAMM Citrix" sequence="5" value="Population does not use NAMM Citrix"/>
+            </choice>
+        </element>
+        <element choice="1" label="NAMM CDO Domain\SSO Authentication (NAMMCAL Domain)" max_length="32" name="namm_cdo_domain_sso_authentication_nammcal_domain" reference="x_437100_arc_cmdb_application_lookup_namm_cdo_domain_sso_authentication" type="reference">
+            <choice/>
+        </element>
+        <element choice="1" label="NAMM CDO Domain\SSO Authentication (NAMMNET Domain)" max_length="32" name="namm_cdo_domain_sso_authentication_nammnet_domain" reference="x_437100_arc_cmdb_application_lookup_namm_cdo_domain_sso_authentication" type="reference">
+            <choice/>
+        </element>
+        <element label="NAMM CDO Website" max_length="255" name="namm_cdo_website" type="string"/>
+        <element choice="1" label="OCNCT CDO Domain\SSO Authentication (NAMMCAL Domain)" max_length="32" name="ocnct_cdo_domain_sso_authentication_nammcal_domain" reference="x_437100_arc_cmdb_application_lookup_ocnct_cdo_domain_sso_authentication" type="reference">
+            <choice/>
+        </element>
+        <element choice="1" label="OCNCT CDO Domain\SSO Authentication (NAMMNET Domain)" max_length="32" name="ocnct_cdo_domain_sso_authentication_nammnet_domain" reference="x_437100_arc_cmdb_application_lookup_ocnct_cdo_domain_sso_authentication" type="reference">
+            <choice/>
+        </element>
+        <element label="OCNCT CDO Website" max_length="255" name="ocnct_cdo_website" type="string"/>
+        <element choice="1" label="Publically accesible" max_length="40" name="publicallyaccesible" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Dev Only" sequence="1" value="Dev Only"/>
+                <element inactive_on_update="false" label="Yes Via AppStore w\credentials" sequence="2" value="Yes Via AppStore w\credentials"/>
+                <element inactive_on_update="false" label="Yes via Mobile AppStore w\credentials" sequence="3" value="Yes via Mobile AppStore w\credentials"/>
+                <element inactive_on_update="false" label="Yes w\2FA" sequence="4" value="Yes w\2FA"/>
+                <element inactive_on_update="false" label="Yes w\credentials" sequence="5" value="Yes w\credentials"/>
+            </choice>
+        </element>
+        <element choice="1" label="Service Provider - Company" max_length="40" name="serviceprovidercompany" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Cornerstone" sequence="1" value="Cornerstone"/>
+                <element inactive_on_update="false" label="Cozeva" sequence="2" value="Cozeva"/>
+                <element inactive_on_update="false" label="NAMM California" sequence="3" value="NAMM California"/>
+            </choice>
+        </element>
+        <element label="Service Provider" max_length="100" name="service_provider" type="string"/>
+        <element label="Service Provider ID" max_length="100" name="service_provider_id" type="string"/>
+        <element label="SP Cert" max_length="100" name="sp_cert" type="string"/>
+        <index name="index">
+            <element name="appid"/>
+        </index>
+        <index name="index2">
+            <element name="application_level_auth_attr"/>
+        </index>
+    </element>
+</database>

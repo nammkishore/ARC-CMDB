@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Application Mapped drive Dependencies_Staging" max_length="40" name="x_437100_arc_cmdb_application_mapped_drive_dependencies_staging" sizeclass="0" type="collection">
+        <element attributes="import_attribute_name=AppId" label="AppId" max_length="40" name="u_appid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ElevatedAccountType" label="ElevatedAccountType" max_length="58" name="u_elevatedaccounttype" type="string"/>
+        <element attributes="import_attribute_name=ID" label="ID" max_length="40" name="u_id" type="integer"/>
+        <element attributes="import_attribute_name=IsMappedDriveHardCoded" label="IsMappedDriveHardCoded" max_length="40" name="u_ismappeddrivehardcoded" type="integer"/>
+        <element attributes="import_attribute_name=IsShareNameHardCoded" label="IsShareNameHardCoded" max_length="40" name="u_issharenamehardcoded" type="integer"/>
+        <element attributes="import_attribute_name=IsUNCPathHardCoded" label="IsUNCPathHardCoded" max_length="40" name="u_isuncpathhardcoded" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Notes" label="Notes" max_length="40" name="u_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ShareName" label="ShareName" max_length="45" name="u_sharename" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=UNCPath" label="UNCPath" max_length="92" name="u_uncpath" type="string"/>
+    </element>
+</database>

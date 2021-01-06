@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="capability" table="x_437100_arc_cmdb_appregistry_data" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>capability</element>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:36:40</sys_created_on>
+            <sys_id>5a777b1fdb8e5010b0235c7a489619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>capability</sys_name>
+            <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+            <sys_update_name>sys_choice_x_437100_arc_cmdb_appregistry_data_capability</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:36:40</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>capability</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Process Revenue Recovery</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:36:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b896bf1fdb8e5010b0235c7a48961968</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:36:44</sys_updated_on>
+            <value>Process Revenue Recovery</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>capability</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Process Claims</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:36:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a77fb1fdb8e5010b0235c7a48961991</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:36:55</sys_updated_on>
+            <value>Process Claims</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>capability</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Process IT</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:37:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>85877f5fdb8e5010b0235c7a489619b7</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:37:04</sys_updated_on>
+            <value>Process IT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>capability</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Process FinOps Stuff</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:37:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a787f35fdb8e5010b0235c7a48961916</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:37:15</sys_updated_on>
+            <value>Process FinOps Stuff</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>capability</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Process Eligibility</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:37:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56977f5fdb8e5010b0235c7a489619be</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:37:25</sys_updated_on>
+            <value>Process Eligibility</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>capability</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Process Config</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:37:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64a7bb5fdb8e5010b0235c7a4896198a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:37:36</sys_updated_on>
+            <value>Process Config</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>capability</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Process EDI</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:37:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4fa7bf5fdb8e5010b0235c7a48961984</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:37:48</sys_updated_on>
+            <value>Process EDI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>capability</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1. Not Provided in Application Registry (AR)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:37:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fdb7f35fdb8e5010b0235c7a48961907</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:38:00</sys_updated_on>
+            <value>1. Not Provided in Application Registry (AR)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>capability</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2. Not Provided in Team Foundation Server (TFS)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:38:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>45c7ff5fdb8e5010b0235c7a489619e8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:38:15</sys_updated_on>
+            <value>2. Not Provided in Team Foundation Server (TFS)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>capability</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3. Not Found During Code Review (CR)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:38:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f4d7739fdb8e5010b0235c7a48961914</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:38:30</sys_updated_on>
+            <value>3. Not Found During Code Review (CR)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>capability</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4. Not Provided in COTS Documentation (COTSD)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>11</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:38:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a4e73f5fdb8e5010b0235c7a489619d1</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:38:42</sys_updated_on>
+            <value>4. Not Provided in COTS Documentation (COTSD)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>capability</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5. Not Provided during SME Interview (SMEI)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>12</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:38:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>93e7339fdb8e5010b0235c7a4896192c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:38:55</sys_updated_on>
+            <value>5. Not Provided during SME Interview (SMEI)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>capability</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6. Not Provided by any Authoritative Source</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>13</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:39:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>26f7bf5fdb8e5010b0235c7a48961939</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:39:11</sys_updated_on>
+            <value>6. Not Provided by any Authoritative Source</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

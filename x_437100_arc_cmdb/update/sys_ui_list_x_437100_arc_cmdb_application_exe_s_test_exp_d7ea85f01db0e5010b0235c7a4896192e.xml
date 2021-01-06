@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_437100_arc_cmdb_application_exe_s_test" version="2" view="exp_d7ea85f01db0e5010b0235c7a4896192e">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>appid</element>
+            <list_id display_value="x_437100_arc_cmdb_application_exe_s_test" element="NULL" name="x_437100_arc_cmdb_application_exe_s_test" parent="NULL" relationship="NULL" sys_domain="global" view="f2a85f01db0e5010b0235c7a48961930">32a8d749db0e5010b0235c7a48961992</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:35:45</sys_created_on>
+            <sys_id>faa8d749db0e5010b0235c7a48961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:35:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>executabledirectorypath</element>
+            <list_id display_value="x_437100_arc_cmdb_application_exe_s_test" element="NULL" name="x_437100_arc_cmdb_application_exe_s_test" parent="NULL" relationship="NULL" sys_domain="global" view="f2a85f01db0e5010b0235c7a48961930">32a8d749db0e5010b0235c7a48961992</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:35:45</sys_created_on>
+            <sys_id>7ea8d749db0e5010b0235c7a48961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:35:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>id</element>
+            <list_id display_value="x_437100_arc_cmdb_application_exe_s_test" element="NULL" name="x_437100_arc_cmdb_application_exe_s_test" parent="NULL" relationship="NULL" sys_domain="global" view="f2a85f01db0e5010b0235c7a48961930">32a8d749db0e5010b0235c7a48961992</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:35:45</sys_created_on>
+            <sys_id>fea8d749db0e5010b0235c7a48961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:35:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_437100_arc_cmdb_application_exe_s_test</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-15 11:35:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32a8d749db0e5010b0235c7a48961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_437100_arc_cmdb_application_exe_s_test</sys_name>
+            <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+            <sys_update_name>sys_ui_list_x_437100_arc_cmdb_application_exe_s_test_exp_d7ea85f01db0e5010b0235c7a4896192e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-15 11:35:45</sys_updated_on>
+            <sys_user/>
+            <view display_value="Exp_d7ea85f01db0e5010b0235c7a4896192e" name="exp_d7ea85f01db0e5010b0235c7a4896192e">f2a85f01db0e5010b0235c7a48961930</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

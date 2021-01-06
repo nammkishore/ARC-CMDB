@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="businessprocessname" table="x_437100_arc_cmdb_appregistry_data" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>businessprocessname</element>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:41:42</sys_created_on>
+            <sys_id>84a8379fdb8e5010b0235c7a489619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>businessprocessname</sys_name>
+            <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+            <sys_update_name>sys_choice_x_437100_arc_cmdb_appregistry_data_businessprocessname</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:41:42</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>businessprocessname</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Manage Revenue Recovery</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:41:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc78b39fdb8e5010b0235c7a489619aa</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:41:45</sys_updated_on>
+            <value>Manage Revenue Recovery</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>businessprocessname</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Manage Claims</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:41:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90a87b9fdb8e5010b0235c7a489619b4</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:41:56</sys_updated_on>
+            <value>Manage Claims</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>businessprocessname</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Manage IT</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:42:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>62a83f9fdb8e5010b0235c7a48961985</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:42:05</sys_updated_on>
+            <value>Manage IT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>businessprocessname</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Manage FinOps</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:42:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4db8f39fdb8e5010b0235c7a4896196a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:42:16</sys_updated_on>
+            <value>Manage FinOps</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>businessprocessname</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Manage Eligibility</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:42:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ebb8fb9fdb8e5010b0235c7a489619ae</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:42:29</sys_updated_on>
+            <value>Manage Eligibility</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>businessprocessname</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Manage Config</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:42:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ac87f9fdb8e5010b0235c7a48961916</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:42:40</sys_updated_on>
+            <value>Manage Config</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>businessprocessname</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Manage EDI</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:42:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>19d87b9fdb8e5010b0235c7a48961993</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:42:51</sys_updated_on>
+            <value>Manage EDI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>businessprocessname</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1. Not Provided in Application Registry (AR)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:43:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44e8bf9fdb8e5010b0235c7a489619af</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:43:07</sys_updated_on>
+            <value>1. Not Provided in Application Registry (AR)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>businessprocessname</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2. Not Provided in Team Foundation Server (TFS)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:43:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>37e87f9fdb8e5010b0235c7a489619e4</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:43:22</sys_updated_on>
+            <value>2. Not Provided in Team Foundation Server (TFS)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>businessprocessname</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3. Not Found During Code Review (CR)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:43:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f3f87f9fdb8e5010b0235c7a489619e6</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:43:33</sys_updated_on>
+            <value>3. Not Found During Code Review (CR)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>businessprocessname</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4. Not Provided in COTS Documentation (COTSD)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>11</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:43:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52097b9fdb8e5010b0235c7a4896197b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:43:45</sys_updated_on>
+            <value>4. Not Provided in COTS Documentation (COTSD)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>businessprocessname</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4. Not Provided in COTS Documentation (COTSD)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>12</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:43:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd197b9fdb8e5010b0235c7a48961980</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:43:59</sys_updated_on>
+            <value>4. Not Provided in COTS Documentation (COTSD)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>businessprocessname</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4. Not Provided in COTS Documentation (COTSD)</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_appregistry_data</name>
+            <sequence>13</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 13:44:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f829b3dfdb8e5010b0235c7a48961927</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 13:44:20</sys_updated_on>
+            <value>4. Not Provided in COTS Documentation (COTSD)</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

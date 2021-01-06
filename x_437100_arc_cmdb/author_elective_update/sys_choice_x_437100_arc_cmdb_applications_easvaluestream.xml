@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="easvaluestream" table="x_437100_arc_cmdb_applications" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>easvaluestream</element>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 07:01:55</sys_created_on>
+            <sys_id>7b1d5a13dbca5010b0235c7a4896190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>easvaluestream</sys_name>
+            <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+            <sys_update_name>sys_choice_x_437100_arc_cmdb_applications_easvaluestream</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 07:01:55</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>easvaluestream</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transaction Services</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 07:01:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1dc1653dbca5010b0235c7a4896198c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 07:01:59</sys_updated_on>
+            <value>Transaction Services</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>easvaluestream</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Operations</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 07:02:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>002dd613dbca5010b0235c7a489619f6</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 07:02:11</sys_updated_on>
+            <value>Service Operations</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>easvaluestream</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Medical Management</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 07:02:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0f2d1253dbca5010b0235c7a48961994</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 07:02:23</sys_updated_on>
+            <value>Medical Management</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>easvaluestream</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Medical Management\Service Operations</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_applications</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-22 07:02:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>793d1653dbca5010b0235c7a48961994</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-22 07:02:34</sys_updated_on>
+            <value>Medical Management\Service Operations</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

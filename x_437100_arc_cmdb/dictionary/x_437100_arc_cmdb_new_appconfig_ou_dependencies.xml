@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="New AppConfig-OU Dependencies" max_length="40" name="x_437100_arc_cmdb_new_appconfig_ou_dependencies" sizeclass="2" type="collection">
+        <element choice="1" label="AppId" max_length="32" name="appid" reference="x_437100_arc_cmdb_applications" type="reference">
+            <choice/>
+        </element>
+        <element label="Is OU Hardcoded?" max_length="40" name="is_ou_hardcoded" type="string"/>
+        <element label="Notes" max_length="1000" name="notes" type="string"/>
+        <element label="OU Domain" max_length="255" name="ou_domain" type="string"/>
+        <element label="OU Name" max_length="40" name="ou_name" type="string"/>
+        <element label="OU Path" max_length="255" name="ou_path" type="string"/>
+        <index name="index">
+            <element name="appid"/>
+        </index>
+    </element>
+</database>

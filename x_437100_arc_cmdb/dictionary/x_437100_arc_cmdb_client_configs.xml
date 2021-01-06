@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Client Configs" max_length="40" name="x_437100_arc_cmdb_client_configs" sizeclass="179" type="collection">
+        <element choice="1" label="AppId" max_length="255" name="appid" reference="x_437100_arc_cmdb_applications" type="reference">
+            <choice/>
+        </element>
+        <element label="Client Config Description" max_length="255" name="client_config_description" type="string"/>
+        <element label="Client Session Info" max_length="255" name="client_session_info" type="string"/>
+        <element label="Config Install Location" max_length="255" name="config_install_location" type="string"/>
+        <element label="Config UNC Path" max_length="255" name="config_unc_path" type="string"/>
+        <element label="Notes" max_length="1000" name="notes" type="string"/>
+    </element>
+</database>

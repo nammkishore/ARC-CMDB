@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Markware Convertion_Staging" max_length="40" name="x_437100_arc_cmdb_markware_convertion_staging" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=AppId" label="AppId" max_length="62" name="u_appid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ApplicationId" label="ApplicationId" max_length="40" name="u_applicationid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=AppSummary&amp;ConversionProcess" label="AppSummary&amp;ConversionProcess" max_length="40" name="u_appsummary_conversionprocess" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ElevatedAccountType" max_length="40" name="u_elevatedaccounttype" type="string"/>
+        <element attributes="import_attribute_name=ID" label="ID" max_length="40" name="u_id" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Business Unit: Lookup_Business Unit Name " max_length="40" name="x_437100_arc_cmdb_business_unit_name_lookup" sizeclass="13" type="collection">
+        <element label="ID" max_length="40" name="id" type="integer"/>
+        <element display="true" label="Unit Name" max_length="255" name="unit_name" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Application: Lookup_Third Party App Status" max_length="40" name="x_437100_arc_cmdb_third_party_app_status_lookup" sizeclass="8" type="collection">
+        <element display="true" label="Status" max_length="255" name="status" type="string"/>
+    </element>
+</database>

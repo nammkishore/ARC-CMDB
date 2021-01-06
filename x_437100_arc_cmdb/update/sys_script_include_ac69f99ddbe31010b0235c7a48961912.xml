@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_437100_arc_cmdb.ARC_SI_BusinessAppsWithCommonName</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>ARC_SI_BusinessAppsWithCommonName</name>
+        <script><![CDATA[var ARC_SI_BusinessAppsWithCommonName = Class.create();
+ARC_SI_BusinessAppsWithCommonName.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    getBusinessAppsWithCommonName: function() {
+        var arrApps = [];
+        var bAppsWithCommonName = new GlideRecord('cmdb_ci_business_app');
+        bAppsWithCommonName.query();
+        while (bAppsWithCommonName.next()) {
+            if (bAppsWithCommonName.u_common_name_arc == this.getParameter('sysparm_common_name') && bAppsWithCommonName.common_name != 'No Common Name Identified') {
+                arrApps.push(bAppsWithCommonName.getValue('number') + ' - ' + bAppsWithCommonName.getValue('name'));
+            }
+        }
+        return JSON.stringify(arrApps);
+    },
+    type: 'ARC_SI_BusinessAppsWithCommonName'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-28 13:02:44</sys_created_on>
+        <sys_id>ac69f99ddbe31010b0235c7a48961912</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ARC_SI_BusinessAppsWithCommonName</sys_name>
+        <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+        <sys_update_name>sys_script_include_ac69f99ddbe31010b0235c7a48961912</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-28 13:02:44</sys_updated_on>
+    </sys_script_include>
+</record_update>

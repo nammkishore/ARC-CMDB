@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Business Application Staging" max_length="40" name="x_437100_arc_cmdb_business_application_staging" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Application Sub-Type (ARC)" label="Application Sub-Type (ARC)" max_length="40" name="u_application_sub_type__arc_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Application Type" label="Application Type" max_length="40" name="u_application_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Architecture Type" label="Architecture Type" max_length="40" name="u_architecture_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ARC App ID" label="ARC App ID" max_length="40" name="u_arc_app_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Business owner (ARC)" label="Business owner (ARC)" max_length="40" name="u_business_owner__arc_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Business Process" label="Business Process" max_length="40" name="u_business_process" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CDO Model (ARC)" label="CDO Model (ARC)" max_length="40" name="u_cdo_model__arc_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Choose System-Original" label="Choose System-Original" max_length="40" name="u_choose_system_original" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Compliance: Business Criticality" label="Compliance: Business Criticality" max_length="40" name="u_compliance___ss_criticality" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Compliance: Entitlement Review Requirements" label="Compliance: Entitlement Review Requirements" max_length="40" name="u_compliance___w_requirements" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="40" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=EAS Delivery Teams (ARC)" label="EAS Delivery Teams (ARC)" max_length="40" name="u_eas_delivery_teams__arc_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=EAS Value Stream (ARC)" label="EAS Value Stream (ARC)" max_length="40" name="u_eas_value_stream__arc_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Install Type" label="Install Type" max_length="40" name="u_install_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=KJ Import To" label="KJ Import To" max_length="41" name="u_kj_import_to" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=KJ Notes" label="KJ Notes" max_length="59" name="u_kj_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Platform" label="Platform" max_length="40" name="u_platform" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Service Level Owner (ARC)" label="Service Level Owner (ARC)" max_length="40" name="u_service_level_owner__arc_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Status" label="Status" max_length="40" name="u_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Technical SME (ARC)" label="Technical SME (ARC)" max_length="40" name="u_technical_sme__arc_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Technology Stack" label="Technology Stack" max_length="40" name="u_technology_stack" type="string"/>
+    </element>
+</database>

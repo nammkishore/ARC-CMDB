@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="DONOTUSE_Markware Conversion" max_length="40" name="x_437100_arc_cmdb_markware_conversion" sizeclass="273" type="collection">
+        <element choice="1" label="Appid" max_length="32" name="appid" reference="x_437100_arc_cmdb_applications" type="reference">
+            <choice/>
+        </element>
+        <element choice="1" label="AppSummary&amp;ConversionProcess" max_length="255" name="appsummary_conversionprocess" reference="x_437100_arc_cmdb_markware_conversion_lookup" type="reference">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="appid"/>
+        </index>
+    </element>
+</database>

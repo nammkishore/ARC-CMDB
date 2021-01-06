@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="AppConfig: Lookup_Hard Coded" max_length="40" name="x_437100_arc_cmdb_hard_coded_lookup" sizeclass="9" type="collection">
+        <element label="ID" max_length="40" name="id" type="integer"/>
+        <element display="true" label="RecodingOption" max_length="255" name="recodingoption" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Application: Lookup_Discovery Action Items" max_length="40" name="x_437100_arc_cmdb_discovery_action_items_lookup" sizeclass="6" type="collection">
+        <element display="true" label="Discovery Item" max_length="255" name="discovery_item" type="string"/>
+    </element>
+</database>

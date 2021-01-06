@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Sub-Department_IG Role_AppId" max_length="40" name="x_437100_arc_cmdb_sub_department_ig_role_appid" sizeclass="1785" type="collection">
+        <element choice="1" label="AppId" max_length="32" name="appid" reference="x_437100_arc_cmdb_applications" type="reference">
+            <choice/>
+        </element>
+        <element choice="1" label="IG Role Name" max_length="32" name="ig_role_name" reference="x_437100_arc_cmdb_ig_role_lookup" type="reference">
+            <choice/>
+        </element>
+        <element label="Migration Order" max_length="40" name="migration_order" type="integer"/>
+        <element choice="1" label="Sub Department" max_length="32" name="sub_department" reference="x_437100_arc_cmdb_subdepartment_lookup" type="reference">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="sub_department"/>
+        </index>
+        <index name="index2">
+            <element name="ig_role_name"/>
+        </index>
+        <index name="index3">
+            <element name="appid"/>
+        </index>
+    </element>
+</database>

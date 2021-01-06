@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="AppConfig: Lookup_Group Type" max_length="40" name="x_437100_arc_cmdb_group_type_lookup" sizeclass="11" type="collection">
+        <element display="true" label="Group Type" max_length="255" name="group_type" type="string"/>
+        <element label="ID" max_length="40" name="id" type="integer"/>
+    </element>
+</database>

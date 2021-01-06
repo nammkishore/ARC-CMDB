@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Application: Lookup_AD Security Model" max_length="40" name="x_437100_arc_cmdb_ad_security_model_lookup" sizeclass="13" type="collection">
+        <element label="ID" max_length="40" name="id" type="integer"/>
+        <element display="true" label="Security Model" max_length="255" name="security_model" type="string"/>
+    </element>
+</database>

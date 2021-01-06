@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Application: Lookup_ERT Status" max_length="40" name="x_437100_arc_cmdb_ert_status_lookup" sizeclass="3" type="collection">
+        <element display="true" label="ERT Status" max_length="255" name="ert_status" type="string"/>
+    </element>
+</database>

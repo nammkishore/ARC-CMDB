@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Application: Lookup_EAS Delivery Teams" language="en" table="x_437100_arc_cmdb_application_lookup_eas_delivery_teams">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Application: Lookup_EAS Delivery Teams</label>
+            <language>en</language>
+            <name>x_437100_arc_cmdb_application_lookup_eas_delivery_teams</name>
+            <plural>Application: Lookup_EAS Delivery Teams</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-28 06:18:35</sys_created_on>
+            <sys_id>38c30329db895010b0235c7a489619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Application: Lookup_EAS Delivery Teams</sys_name>
+            <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+            <sys_update_name>sys_documentation_x_437100_arc_cmdb_application_lookup_eas_delivery_teams__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-28 06:18:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

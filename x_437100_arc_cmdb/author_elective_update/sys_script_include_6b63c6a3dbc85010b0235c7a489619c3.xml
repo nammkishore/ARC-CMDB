@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_437100_arc_cmdb.HelloWorld</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>HelloWorld</name>
+        <script><![CDATA[var HelloWorld = Class.create();
+HelloWorld.prototype = Object.extendsObject(AbstractAjaxProcessor, {
+    hello: function() {
+        return "Hello " + this.getParameter('sysparm_user_name') + "!";
+    },
+    _privateFunction: function() { // this function is not client callable     
+    }
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 13:42:34</sys_created_on>
+        <sys_id>6b63c6a3dbc85010b0235c7a489619c3</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>HelloWorld</sys_name>
+        <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+        <sys_update_name>sys_script_include_6b63c6a3dbc85010b0235c7a489619c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 14:31:10</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</application>
+        <file_path/>
+        <instance_id>faa61d43dbc9bfc442b321c4059619ff</instance_id>
+        <instance_name>dev84536</instance_name>
+        <name>sys_script_include_6b63c6a3dbc85010b0235c7a489619c3</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_437100_arc_cmdb.HelloWorld&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;HelloWorld&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var HelloWorld = Class.create();
+HelloWorld.prototype = Object.extendsObject(AbstractAjaxProcessor, {
+    hello: function() {
+        return "Hello " + this.getParameter('sysparm_user_name') + "!";
+    },
+    _privateFunction: function() { // this function is not client callable     
+    }
+});]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-04-14 13:42:34&lt;/sys_created_on&gt;&lt;sys_id&gt;6b63c6a3dbc85010b0235c7a489619c3&lt;/sys_id&gt;&lt;sys_mod_count&gt;10&lt;/sys_mod_count&gt;&lt;sys_name&gt;HelloWorld&lt;/sys_name&gt;&lt;sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb"&gt;360d4b9edb220010b0235c7a4896197b&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="ARC-CMDB"&gt;360d4b9edb220010b0235c7a4896197b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_6b63c6a3dbc85010b0235c7a489619c3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-04-14 14:31:10&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-182862509</payload_hash>
+        <record_name>HelloWorld</record_name>
+        <reverted_from/>
+        <source>430d0f9edb220010b0235c7a489619bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 14:31:10</sys_created_on>
+        <sys_id>e38e82ebdbc85010b0235c7a48961987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1717919dd9d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 14:31:10</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>ab8e82ebefc85010ce014e0d4a5aad86</update_guid>
+        <update_guid_history>ab8e82ebefc85010ce014e0d4a5aad86:-182862509,6469c2eb8dc850107d6d18284c008ed1:562639593,3fd8caab78c850101f502a495e6c2f67:-1774694646,86a8ce2b71c85010988c68e82b869c09:251579148,a1d682e7dcc850106c078330d5f25ca9:1841504713,70b602e784c85010fc2b7331c9c2393b:-177211033,aca686672bc850108f6216b0e530998d:1841504713,e676c66765c8501040dd5c8c7508215d:-1458520984,6b040ee3d7c8501050993124ba4dfa90:1841504713,28938ee3c6c85010cd36c8024532247c:-1632603462,a363c6a32ec850109aa770599f21d5c6:441002088</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 14:43:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>246067fb6272468ba2c08e8528524199</sys_id>
+        <sys_metadata>6b63c6a3dbc85010b0235c7a489619c3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HelloWorld</sys_name>
+        <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+        <sys_scope_delete display_value="">19facf94bce04a3285621ed584e50559</sys_scope_delete>
+        <sys_update_name>sys_script_include_6b63c6a3dbc85010b0235c7a489619c3</sys_update_name>
+        <sys_update_version display_value="sys_script_include_6b63c6a3dbc85010b0235c7a489619c3">e38e82ebdbc85010b0235c7a48961987</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 14:43:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

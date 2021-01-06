@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Application AD Dependencies_Staging" max_length="40" name="x_437100_arc_cmdb_application_ad_dependencies_staging" sizeclass="0" type="collection">
+        <element attributes="import_attribute_name=AppId" label="AppId" max_length="40" name="u_appid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Domain" label="Domain" max_length="45" name="u_domain" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ElevatedAccountType" label="ElevatedAccountType" max_length="45" name="u_elevatedaccounttype" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=EmailAccountName" label="EmailAccountName" max_length="45" name="u_emailaccountname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=EmailDistributionGroup" label="EmailDistributionGroup" max_length="45" name="u_emaildistributiongroup" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=GPO" label="GPO" max_length="45" name="u_gpo" type="string"/>
+        <element attributes="import_attribute_name=ID" label="ID" max_length="40" name="u_id" type="integer"/>
+        <element attributes="import_attribute_name=IsDependencyHardCoded" label="IsDependencyHardCoded" max_length="40" name="u_isdependencyhardcoded" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=OUName" label="OUName" max_length="45" name="u_ouname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=WorkstationLocalGroup" label="WorkstationLocalGroup" max_length="45" name="u_workstationlocalgroup" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Application: Lookup_NAMM CDO Website</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_437100_arc_cmdb_application_lookup_namm_cdo_website</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-10 10:51:58</sys_created_on>
+        <sys_id>77eef231db911010b0235c7a489619ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application: Lookup_NAMM CDO Website</sys_name>
+        <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+        <sys_update_name>sys_db_object_77eef231db911010b0235c7a489619ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-10 10:51:58</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_437100_arc_cmdb.user" name="x_437100_arc_cmdb.user">7e0d0f9edb220010b0235c7a48961929</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</application>
+        <file_path/>
+        <instance_id>faa61d43dbc9bfc442b321c4059619ff</instance_id>
+        <instance_name>dev84536</instance_name>
+        <name>sys_db_object_77eef231db911010b0235c7a489619ea</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Application: Lookup_NAMM CDO Website</label><live_feed_enabled>false</live_feed_enabled><name>x_437100_arc_cmdb_application_lookup_namm_cdo_website</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-10 10:51:58</sys_created_on><sys_id>77eef231db911010b0235c7a489619ea</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Application: Lookup_NAMM CDO Website</sys_name><sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package><sys_policy/><sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope><sys_update_name>sys_db_object_77eef231db911010b0235c7a489619ea</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-10 10:51:58</sys_updated_on><update_access>false</update_access><user_role display_value="x_437100_arc_cmdb.user" name="x_437100_arc_cmdb.user">7e0d0f9edb220010b0235c7a48961929</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>1244932362</payload_hash>
+        <record_name>Application: Lookup_NAMM CDO Website</record_name>
+        <reverted_from/>
+        <source>430d0f9edb220010b0235c7a489619bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-10 10:51:59</sys_created_on>
+        <sys_id>5c0f3631db911010b0235c7a489619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1729ddbaec30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-10 10:51:59</sys_updated_on>
+        <type>Table</type>
+        <update_guid>540f36313491101035fbbcc9dd4d17ed</update_guid>
+        <update_guid_history>540f36313491101035fbbcc9dd4d17ed:1244932362</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-10 10:52:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>3af38b321ae846d4bd5d7b07e7348304</sys_id>
+        <sys_metadata>77eef231db911010b0235c7a489619ea</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application: Lookup_NAMM CDO Website</sys_name>
+        <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+        <sys_scope_delete display_value="">19facf94bce04a3285621ed584e50559</sys_scope_delete>
+        <sys_update_name>sys_db_object_77eef231db911010b0235c7a489619ea</sys_update_name>
+        <sys_update_version display_value="sys_db_object_77eef231db911010b0235c7a489619ea">5c0f3631db911010b0235c7a489619ed</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-10 10:52:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

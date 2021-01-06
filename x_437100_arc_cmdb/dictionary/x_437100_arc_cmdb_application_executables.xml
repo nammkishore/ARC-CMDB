@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Application Executables" max_length="40" name="x_437100_arc_cmdb_application_executables" sizeclass="391" type="collection">
+        <element label="AppId" max_length="255" name="appid" reference="x_437100_arc_cmdb_applications" type="reference"/>
+        <element label="ExecutableDirectoryPath" max_length="255" name="executabledirectorypath" type="string"/>
+        <element label="ExecutableName" max_length="255" name="executablename" type="string"/>
+        <element label="IsPathHardCoded" max_length="255" name="ispathhardcoded" reference="x_437100_arc_cmdb_hard_coded_dependency_lookup" type="reference"/>
+        <element label="Notes" max_length="1000" name="notes" type="string"/>
+    </element>
+</database>

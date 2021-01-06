@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_page_hdrftr">
+    <sys_report_page_hdrftr action="INSERT_OR_UPDATE">
+        <ftr_data>Run by, Empty, Run Date and Time</ftr_data>
+        <hdr_data>Report Title, Empty, Page X</hdr_data>
+        <left_ftr_content>3</left_ftr_content>
+        <left_ftr_img/>
+        <left_ftr_text/>
+        <left_hdr_content>2</left_hdr_content>
+        <left_hdr_img/>
+        <left_hdr_text/>
+        <mid_ftr_content>7</mid_ftr_content>
+        <mid_ftr_img/>
+        <mid_ftr_text/>
+        <mid_hdr_content>7</mid_hdr_content>
+        <mid_hdr_img/>
+        <mid_hdr_text/>
+        <name>NAMM</name>
+        <right_ftr_content>4</right_ftr_content>
+        <right_ftr_img/>
+        <right_ftr_text/>
+        <right_hdr_content>0</right_hdr_content>
+        <right_hdr_img/>
+        <right_hdr_text/>
+        <sys_class_name>sys_report_page_hdrftr</sys_class_name>
+        <sys_created_by>BLong@nammcal.com</sys_created_by>
+        <sys_created_on>2020-07-21 20:25:49</sys_created_on>
+        <sys_id>e88b0417db465010b0235c7a48961936</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NAMM</sys_name>
+        <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+        <sys_update_name>sys_report_page_hdrftr_e88b0417db465010b0235c7a48961936</sys_update_name>
+        <sys_updated_by>BLong@nammcal.com</sys_updated_by>
+        <sys_updated_on>2020-07-21 20:25:49</sys_updated_on>
+    </sys_report_page_hdrftr>
+</record_update>

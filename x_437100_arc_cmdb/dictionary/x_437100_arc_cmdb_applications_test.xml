@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Applications Test" max_length="40" name="x_437100_arc_cmdb_applications_test" sizeclass="419" type="collection">
+        <element label="ApplicationId" max_length="255" name="applicationid" type="string"/>
+        <element label="ApplicationName" max_length="255" name="applicationname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ExecutableName" max_length="40" name="executablename" type="string"/>
+        <element display="true" label="ID" max_length="255" name="id" type="integer"/>
+    </element>
+</database>

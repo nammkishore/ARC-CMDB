@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Application Specific Accounts" max_length="40" name="x_437100_arc_cmdb_application_specific_accounts" sizeclass="348" type="collection">
+        <element choice="1" label="AppId" max_length="255" name="appid" reference="x_437100_arc_cmdb_applications" type="reference">
+            <choice/>
+        </element>
+        <element label="DatabaseDirectoryPath" max_length="255" name="databasedirectorypath" type="string"/>
+        <element label="DatabaseName" max_length="255" name="databasename" type="string"/>
+        <element label="DatabaseTable" max_length="255" name="databasetable" type="string"/>
+        <element label="DatabaseType" max_length="255" name="databasetype" type="string"/>
+        <element label="Notes" max_length="1000" name="notes" type="string"/>
+        <element label="ServerIP" max_length="255" name="serverip" type="string"/>
+        <element label="ServerName" max_length="255" name="servername" type="string"/>
+    </element>
+</database>

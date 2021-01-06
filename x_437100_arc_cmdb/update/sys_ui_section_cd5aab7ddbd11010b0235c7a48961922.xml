@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="cd5aab7ddbd11010b0235c7a48961922" sys_domain="global" table="x_437100_arc_cmdb_app_authentication_context" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cdodeliverymodel</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>990f62bbdbda5010b0235c7a48961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cdodeliverypopulation</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>1d0f62bbdbda5010b0235c7a48961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idpsourcebydomain</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>9d0f62bbdbda5010b0235c7a48961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>identityprovidercompany</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>110f62bbdbda5010b0235c7a48961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>publicallyaccesible</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>910f62bbdbda5010b0235c7a48961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>150f62bbdbda5010b0235c7a48961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ctnetscaleraccess</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>950f62bbdbda5010b0235c7a48961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nammcitrixaccess</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>190f62bbdbda5010b0235c7a48961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mfascopestatus</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>990f62bbdbda5010b0235c7a48961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mfasolution</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>1d0f62bbdbda5010b0235c7a48961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>application_level_auth_attr</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>9d0f62bbdbda5010b0235c7a48961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>110f62bbdbda5010b0235c7a48961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>namm_cdo_website</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>910f62bbdbda5010b0235c7a48961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>namm_cdo_domain_sso_authentication_nammcal_domain</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>150f62bbdbda5010b0235c7a48961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>namm_cdo_domain_sso_authentication_nammnet_domain</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>950f62bbdbda5010b0235c7a48961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ocnct_cdo_website</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>190f62bbdbda5010b0235c7a48961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ocnct_cdo_domain_sso_authentication_nammcal_domain</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>990f62bbdbda5010b0235c7a48961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ocnct_cdo_domain_sso_authentication_nammnet_domain</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>1d0f62bbdbda5010b0235c7a48961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>serviceprovidercompany</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>9d0f62bbdbda5010b0235c7a48961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_provider</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>110f62bbdbda5010b0235c7a48961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nameidexpression</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>910f62bbdbda5010b0235c7a48961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>expressionattributeaddescription</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>150f62bbdbda5010b0235c7a48961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_provider_id</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>950f62bbdbda5010b0235c7a48961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>authenticationdomain</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>190f62bbdbda5010b0235c7a48961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>audience</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>990f62bbdbda5010b0235c7a48961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assertion_url</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>1d0f62bbdbda5010b0235c7a48961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name_id_format</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>9d0f62bbdbda5010b0235c7a48961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>auth_attribute_1</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>110f62bbdbda5010b0235c7a48961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>attribute_1_value</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>910f62bbdbda5010b0235c7a48961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>auth_attribute_1_ad_group_name</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>150f62bbdbda5010b0235c7a48961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>logout_url</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>950f62bbdbda5010b0235c7a48961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sp_cert</element>
+            <position>31</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>190f62bbdbda5010b0235c7a48961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idp_cert</element>
+            <position>32</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>990f62bbdbda5010b0235c7a48961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>issuer_name</element>
+            <position>33</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>1d0f62bbdbda5010b0235c7a48961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>appid</element>
+            <position>34</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-05 07:52:46</sys_created_on>
+            <sys_id>9d0f62bbdbda5010b0235c7a48961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_437100_arc_cmdb_app_authentication_context" sys_domain="global" view="Default view">cd5aab7ddbd11010b0235c7a48961922</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-05 07:52:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_437100_arc_cmdb_app_authentication_context</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-10 14:01:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cd5aab7ddbd11010b0235c7a48961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_437100_arc_cmdb_app_authentication_context</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ARC-CMDB" source="x_437100_arc_cmdb">360d4b9edb220010b0235c7a4896197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ARC-CMDB">360d4b9edb220010b0235c7a4896197b</sys_scope>
+            <sys_update_name>sys_ui_section_cd5aab7ddbd11010b0235c7a48961922</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-10 14:01:16</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Application: Lookup_EAS Delivery Teams" max_length="40" name="x_437100_arc_cmdb_application_lookup_eas_delivery_teams" sizeclass="5" type="collection">
-        <element label="ID" max_length="40" name="id" type="integer"/>
-        <element display="true" label="Team" max_length="100" name="team" type="string"/>
-    </element>
-</database>

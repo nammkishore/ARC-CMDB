@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Application: Lookup_Application Type" max_length="40" name="x_437100_arc_cmdb_application_category_lookup" sizeclass="14" type="collection">
-        <element choice="2" display="true" label="Application Type" max_length="255" name="application_category" type="string">
-            <choice/>
-        </element>
-    </element>
-</database>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Application: Lookup_Hard Coded Dependency" max_length="40" name="x_437100_arc_cmdb_hard_coded_dependency_lookup" sizeclass="4" type="collection">
-        <element display="true" label="Dependency" max_length="255" name="dependency" type="string"/>
-        <element label="ID" max_length="40" name="id" type="integer"/>
-    </element>
-</database>

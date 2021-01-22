@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="ARC_NewApplicationProvisioningDep ADSecurityGroup_Staging" max_length="40" name="x_437100_arc_cmdb_arc_newapplicationprovisioningdep_adsecuritygroup_staging" sizeclass="0" type="collection">
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=AccountNameGroup" label="AccountNameGroup" max_length="50" name="u_accountnamegroup" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=AppId" label="AppId" max_length="40" name="u_appid" type="string"/>
-        <element attributes="import_attribute_name=#" label="#" max_length="40" name="u__" type="integer"/>
-    </element>
-</database>

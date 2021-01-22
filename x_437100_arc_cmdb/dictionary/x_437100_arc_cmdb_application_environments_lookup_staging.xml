@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="Application Environments Lookup_Staging" max_length="40" name="x_437100_arc_cmdb_application_environments_lookup_staging" sizeclass="0" type="collection">
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Environment" label="Environment" max_length="47" name="u_environment" type="string"/>
-        <element attributes="import_attribute_name=ID" label="ID" max_length="40" name="u_id" type="integer"/>
-    </element>
-</database>

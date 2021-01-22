@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Application: Lookup_Entitlement" max_length="40" name="x_437100_arc_cmdb_entitlement_lookup" sizeclass="4" type="collection">
-        <element display="true" label="Entitlement" max_length="255" name="entitlement" type="string"/>
-    </element>
-</database>

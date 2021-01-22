@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Application: Lookup_Application Account Type" max_length="40" name="x_437100_arc_cmdb_application_account_type_lookup" sizeclass="13" type="collection">
-        <element display="true" label="Account Type" max_length="255" name="account_type" type="string"/>
-        <element label="ID" max_length="40" name="id" type="integer"/>
-    </element>
-</database>

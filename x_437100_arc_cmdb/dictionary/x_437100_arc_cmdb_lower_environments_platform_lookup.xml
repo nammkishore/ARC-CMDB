@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Application: Lookup_Lower Environments Platform" max_length="40" name="x_437100_arc_cmdb_lower_environments_platform_lookup" sizeclass="3" type="collection">
-        <element display="true" label="Status" max_length="255" name="status" type="string"/>
-    </element>
-</database>

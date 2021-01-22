@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Application: Lookup_Application Environments" max_length="40" name="x_437100_arc_cmdb_application_environments_lookup" sizeclass="22" type="collection">
-        <element display="true" label="Environment" max_length="255" name="environment" type="string"/>
-        <element label="ID" max_length="40" name="id" type="integer"/>
-    </element>
-</database>

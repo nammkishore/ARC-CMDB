@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Application: Lookup_Application Sub-Type" max_length="40" name="x_437100_arc_cmdb_application_type_lookup" sizeclass="23" type="collection">
-        <element display="true" label="Application Sub-Type" max_length="255" name="application_type" type="string"/>
-    </element>
-</database>

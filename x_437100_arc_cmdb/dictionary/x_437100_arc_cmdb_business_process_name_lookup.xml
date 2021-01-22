@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Application: Lookup_Business Process Name" max_length="40" name="x_437100_arc_cmdb_business_process_name_lookup" sizeclass="13" type="collection">
-        <element label="ID" max_length="40" name="id" type="integer"/>
-        <element display="true" label="ProcessName" max_length="255" name="processname" type="string"/>
-    </element>
-</database>

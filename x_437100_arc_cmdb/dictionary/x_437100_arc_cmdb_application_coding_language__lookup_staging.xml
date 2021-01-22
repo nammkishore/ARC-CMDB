@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="Application Coding Language  Lookup_Staging" max_length="40" name="x_437100_arc_cmdb_application_coding_language__lookup_staging" sizeclass="0" type="collection">
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=ApplicationCodingLanguage" label="ApplicationCodingLanguage" max_length="47" name="u_applicationcodinglanguage" type="string"/>
-        <element attributes="import_attribute_name=ID" label="ID" max_length="40" name="u_id" type="integer"/>
-    </element>
-</database>

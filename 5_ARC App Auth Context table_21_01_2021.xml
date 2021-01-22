@@ -1,0 +1,1437 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2021-01-21 08:01:57">
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Cozeva_NAMM">bc57c8fddbf34010b0235c7a489619f2</appid>
+<application_level_auth_attr display_value="(TBC) sAMAccount (flast)">6deff271db911010b0235c7a48961981</application_level_auth_attr>
+<assertion_url>https://www.cozeva.com/saml/consume</assertion_url>
+<attribute_1_value>Unspecified</attribute_1_value>
+<audience>CozevaSSO</audience>
+<auth_attribute_1>Unspecified</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>NAMMCAL &amp; NAMMNET</authenticationdomain>
+<cdodeliverymodel>CDO (Exclusive)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - Internal Staff</cdodeliverypopulation>
+<ctnetscaleraccess>No Icon access by population</ctnetscaleraccess>
+<expressionattributeaddescription>sAMaccountName</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMCAL Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>Unspecified</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Confirm Robert\Tim Solution</mfasolution>
+<name_id_format>Unspecified</name_id_format>
+<nameidexpression>http.req.user.attribute(3)</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="(TBC) sAMAccount (flast)">6deff271db911010b0235c7a48961981</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>1. https://auths.nammnet.com/login/Sso_LaunchCozeva.aspx   2. https://www.nammnet.com/dummycozevasp  Both of these links are not publically available</namm_cdo_website>
+<nammcitrixaccess>Icon Accessible from NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>Cozeva PROD</service_provider>
+<service_provider_id>CozevaSSO</service_provider_id>
+<serviceprovidercompany>Cozeva</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 08:35:19</sys_created_on>
+<sys_id>0859678edb5d1010b0235c7a4896194d</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:19:54</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Argon_NAMM">dc57c8fddbf34010b0235c7a4896199a</appid>
+<application_level_auth_attr display_value="UPN (first.last@nammnet.com)">8290c371db911010b0235c7a4896199f</application_level_auth_attr>
+<assertion_url>N\A</assertion_url>
+<attribute_1_value>N\A</attribute_1_value>
+<audience>N\A</audience>
+<auth_attribute_1>N\A</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>N\A</authenticationdomain>
+<cdodeliverymodel>CDO (Exclusive)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - External Providers</cdodeliverypopulation>
+<ctnetscaleraccess>Icon not available in CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>N\A</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>N\A</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMNET Domain</idpsourcebydomain>
+<issuer_name>N\A</issuer_name>
+<logout_url>N\A</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Starling 2FA</mfasolution>
+<name_id_format>N\A</name_id_format>
+<nameidexpression>N\A</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="UPN (first.last@nammnet.com)">8290c371db911010b0235c7a4896199f</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>https://argon.nammnet.com/</namm_cdo_website>
+<nammcitrixaccess>Population does not use NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>TBD</service_provider>
+<service_provider_id>N\A</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>N\A</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 08:00:06</sys_created_on>
+<sys_id>104163cadb5d1010b0235c7a48961996</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:04</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="(OI) Password Manager_User">a457c8fddbf34010b0235c7a489619c6</appid>
+<application_level_auth_attr display_value="UPN (first.last@nammnet.com)">8290c371db911010b0235c7a4896199f</application_level_auth_attr>
+<assertion_url>N\A</assertion_url>
+<attribute_1_value>N\A</attribute_1_value>
+<audience>N\A</audience>
+<auth_attribute_1>N\A</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>N\A</authenticationdomain>
+<cdodeliverymodel>CDO (Shared)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - External Providers</cdodeliverypopulation>
+<ctnetscaleraccess>Icon not available in CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>N\A</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>N\A</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMNET Domain</idpsourcebydomain>
+<issuer_name>N\A</issuer_name>
+<logout_url>N\A</logout_url>
+<mfascopestatus>Out of Scope for MFA</mfascopestatus>
+<mfasolution>N\A</mfasolution>
+<name_id_format>N\A</name_id_format>
+<nameidexpression>N\A</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="2FA Only (No SAML\SSO)">61704731db911010b0235c7a489619ca</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>https://reset.nammnet.com/pmuser</namm_cdo_website>
+<nammcitrixaccess>Population does not use NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes w\2FA</publicallyaccesible>
+<service_provider>N\A</service_provider>
+<service_provider_id>N\A</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>N\A</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 08:52:31</sys_created_on>
+<sys_id>104d2bcedb5d1010b0235c7a48961953</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:11</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Care Dojo">b457c8fddbf34010b0235c7a489619f4</appid>
+<application_level_auth_attr display_value="N\A">ad20c371db911010b0235c7a48961920</application_level_auth_attr>
+<assertion_url>https://namm.csod.com/samldefault.aspx?ouid=1</assertion_url>
+<attribute_1_value>Unspecified</attribute_1_value>
+<audience>netscaler.com</audience>
+<auth_attribute_1>Unspecified</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>NAMMNET</authenticationdomain>
+<cdodeliverymodel>CDO (Exclusive)</cdodeliverymodel>
+<cdodeliverypopulation>OCNCT CDO - Internal Staff</cdodeliverypopulation>
+<ctnetscaleraccess>Icon not available in CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>mail</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>NAMM_SAML_IDP</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMCAL Domain</idpsourcebydomain>
+<issuer_name>netscaler.com</issuer_name>
+<logout_url>Unspecified</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Confirm Robert\Tim Solution</mfasolution>
+<name_id_format>(TBC) EmailAddress</name_id_format>
+<nameidexpression>http.req.user.attribute(4)</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="UPN (flast@nammcal.local)">e3304771db911010b0235c7a489619a7</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>https://namm.csod.com/ui/lms-learner-home/</namm_cdo_website>
+<nammcitrixaccess>Icon Accessible from NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>CareDojo TEST</service_provider>
+<service_provider_id>https://namm.csod.com</service_provider_id>
+<serviceprovidercompany>Cornerstone</serviceprovidercompany>
+<sp_cert>CDSSO_SAML_SP</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 09:59:56</sys_created_on>
+<sys_id>27acb3cadb9d1010b0235c7a489619b5</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:19:46</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Secure Portal_NAMM">2c57c8fddbf34010b0235c7a4896199d</appid>
+<application_level_auth_attr display_value="(TBC) sAMAccount (flast)">6deff271db911010b0235c7a48961981</application_level_auth_attr>
+<assertion_url>https://nammnet.com/SecurePortal/SAML/AssertionConsumerService.aspx</assertion_url>
+<attribute_1_value>http.REQ.USER.GROUPS</attribute_1_value>
+<audience>SecurePortalSSO</audience>
+<auth_attribute_1>groups</auth_attribute_1>
+<auth_attribute_1_ad_group_name>nammcal\AG_091_BKn-SecurePortal</auth_attribute_1_ad_group_name>
+<authenticationdomain>NAMMCAL &amp; NAMMNET</authenticationdomain>
+<cdodeliverymodel>CDO (Shared)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - Internal Staff</cdodeliverypopulation>
+<ctnetscaleraccess>Icon not available in CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>sAMaccountName</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMCAL Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>https://auth.optumcare-mso.com/saml/login</logout_url>
+<mfascopestatus>MFA Scope TBD</mfascopestatus>
+<mfasolution>TBD</mfasolution>
+<name_id_format>Unspecified</name_id_format>
+<nameidexpression>http.req.user.attribute(3)</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="sAMAccount (flast)">2b208731db911010b0235c7a48961909</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>https://www.nammnet.com/SecurePortal/Dashboard.aspx</namm_cdo_website>
+<nammcitrixaccess>Icon Accessible from NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>SecurePortal Prod</service_provider>
+<service_provider_id>SecurePortalSSO</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 08:26:45</sys_created_on>
+<sys_id>2e57238edb5d1010b0235c7a48961923</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:10</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Care Dojo">b457c8fddbf34010b0235c7a489619f4</appid>
+<application_level_auth_attr display_value="N\A">ad20c371db911010b0235c7a48961920</application_level_auth_attr>
+<assertion_url>https://namm.csod.com/samldefault.aspx?ouid=1</assertion_url>
+<attribute_1_value>Unspecified</attribute_1_value>
+<audience>netscaler.com</audience>
+<auth_attribute_1>Unspecified</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>NAMMNET</authenticationdomain>
+<cdodeliverymodel>CDO (Exclusive)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - Internal Staff</cdodeliverypopulation>
+<ctnetscaleraccess>Icon not available in CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>mail</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>NAMM_SAML_IDP</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMCAL Domain</idpsourcebydomain>
+<issuer_name>netscaler.com</issuer_name>
+<logout_url>Unspecified</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Confirm Robert\Tim Solution</mfasolution>
+<name_id_format>(TBC) EmailAddress</name_id_format>
+<nameidexpression>http.req.user.attribute(4)</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="UPN (flast@nammcal.local)">e3304771db911010b0235c7a489619a7</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>https://namm.csod.com/ui/lms-learner-home/</namm_cdo_website>
+<nammcitrixaccess>Icon Accessible from NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>CareDojo TEST</service_provider>
+<service_provider_id>https://namm.csod.com</service_provider_id>
+<serviceprovidercompany>Cornerstone</serviceprovidercompany>
+<sp_cert>CDSSO_SAML_SP</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 09:58:17</sys_created_on>
+<sys_id>2f4cbf0edb9d1010b0235c7a489619c7</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:19:45</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Online PDR">2457c8fddbf34010b0235c7a4896199e</appid>
+<application_level_auth_attr display_value="(TBC) UPN (first.last@nammnet.com)">d6408771db911010b0235c7a4896198c</application_level_auth_attr>
+<assertion_url>https://nammnet.com/PDR/SAML/AssertionConsumerService.aspx</assertion_url>
+<attribute_1_value>http.REQ.USER.GROUPS</attribute_1_value>
+<audience>PDRSSO</audience>
+<auth_attribute_1>groups</auth_attribute_1>
+<auth_attribute_1_ad_group_name>nammcal\AG_094_BKn-OnlinePDR</auth_attribute_1_ad_group_name>
+<authenticationdomain>Unspecified</authenticationdomain>
+<cdodeliverymodel>CDO (Exclusive)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - External Providers</cdodeliverypopulation>
+<ctnetscaleraccess>Icon not available in CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>N\A</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMNET Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>https://auth.optumcare-mso.com/saml/login</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Starling 2FA</mfasolution>
+<name_id_format>Unspecified</name_id_format>
+<nameidexpression>Unspecified</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="UPN (first.last@nammnet.com)">8290c371db911010b0235c7a4896199f</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>https://www.nammnet.com/PDR/</namm_cdo_website>
+<nammcitrixaccess>Population does not use NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>PDR PROD</service_provider>
+<service_provider_id>PDRSSO</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 07:42:19</sys_created_on>
+<sys_id>372d1786db5d1010b0235c7a48961939</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:11</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Nammnet Express_OCNCT">3057c8fddbf34010b0235c7a489619f1</appid>
+<application_level_auth_attr display_value="Company (First.Last@CT)">757513c2db5d1010b0235c7a489619af</application_level_auth_attr>
+<assertion_url>https://optumcare-east.nammnet.com/login/SsoAssertion.aspx</assertion_url>
+<attribute_1_value>Unspecified</attribute_1_value>
+<audience>NE_SP</audience>
+<auth_attribute_1>Unspecified</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>NAMMNET</authenticationdomain>
+<cdodeliverymodel>CDO (Shared)</cdodeliverymodel>
+<cdodeliverypopulation>OCNCT CDO - Internal Staff</cdodeliverypopulation>
+<ctnetscaleraccess>Icon accessible from CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>Company Name</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMNET Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>https://optumcare-mso.com/cgi/tmlogout</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Confirm Robert\Tim Solution</mfasolution>
+<name_id_format>(TBC) EmailAddress</name_id_format>
+<nameidexpression>http.req.user.attribute(1)</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>N\A</namm_cdo_website>
+<nammcitrixaccess>Web Accessible from NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="Full Name (First.Last)  (Attribute Editor &quot;name&quot; field)">dde18fb1db911010b0235c7a48961991</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>https://optumcare-east.nammnet.com/sso/</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>NammnetExpress CT</service_provider>
+<service_provider_id>NE_SP</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 10:45:50</sys_created_on>
+<sys_id>4037c8d2dbdd1010b0235c7a489619b7</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:04</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Argon_OCNCT">b057c8fddbf34010b0235c7a489619f6</appid>
+<application_level_auth_attr display_value="UPN (flast@nammcal.local)">e3304771db911010b0235c7a489619a7</application_level_auth_attr>
+<assertion_url>https://argon-saml.nammnet.com/SAML/SAML/AssertionConsumerService.aspx</assertion_url>
+<attribute_1_value>Unspecified</attribute_1_value>
+<audience>OPTUMCARE-MSO</audience>
+<auth_attribute_1>Unspecified</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>NAMMNET</authenticationdomain>
+<cdodeliverymodel>CDO (Shared)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - Internal Staff</cdodeliverypopulation>
+<ctnetscaleraccess>No Icon access by population</ctnetscaleraccess>
+<expressionattributeaddescription>userPrincipleName</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMCAL Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>Unspecified</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Confirm Robert\Tim Solution</mfasolution>
+<name_id_format>(TBC) EmailAddress</name_id_format>
+<nameidexpression>http.req.user.attribute(2)</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>N\A</namm_cdo_website>
+<nammcitrixaccess>Web Accessible from NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="UPN (flast@nammcal.local)">80814b71db911010b0235c7a489619a0</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>https://argon-saml.nammnet.com/</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>Argon-CT PROD</service_provider>
+<service_provider_id>OPTUMCARE-MSO</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 10:40:22</sys_created_on>
+<sys_id>44f58c52dbdd1010b0235c7a48961990</sys_id>
+<sys_mod_count>16</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-10-23 13:43:42</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Cozeva_OCNCT">f457c8fddbf34010b0235c7a489619f3</appid>
+<application_level_auth_attr display_value="(TBC) UPN (first.last@nammnet.com)">d6408771db911010b0235c7a4896198c</application_level_auth_attr>
+<assertion_url>(TBC) https://www.cozeva.com/saml/consume</assertion_url>
+<attribute_1_value>Unspecified</attribute_1_value>
+<audience>(TBC) CozevaSSO</audience>
+<auth_attribute_1>Unspecified</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>NAMMCAL &amp; NAMMNET</authenticationdomain>
+<cdodeliverymodel>CDO (Shared)</cdodeliverymodel>
+<cdodeliverypopulation>OCNCT CDO - Internal Staff</cdodeliverypopulation>
+<ctnetscaleraccess>Icon accessible from CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>sAMaccountName</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMNET Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>Unspecified</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Confirm Robert\Tim Solution</mfasolution>
+<name_id_format>Unspecified</name_id_format>
+<nameidexpression>http.req.user.attribute(3)</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>N\A</namm_cdo_website>
+<nammcitrixaccess>Web Accessible from NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="(TBC) UPN (FIRST.LAST@nammnet.com)">ef91c7b1db911010b0235c7a489619c7</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>(TBC) 1. https://auths.nammnet.com/login/Sso_LaunchCozeva.aspx   2. https://www.nammnet.com/dummycozevasp  Both of these links are not publically available</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>(TBC) Cozeva PROD</service_provider>
+<service_provider_id>(TBC) CozevaSSO</service_provider_id>
+<serviceprovidercompany>Cozeva</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 10:26:55</sys_created_on>
+<sys_id>47d2c052dbdd1010b0235c7a4896195e</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:19:54</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Secure Portal_NAMM">2c57c8fddbf34010b0235c7a4896199d</appid>
+<application_level_auth_attr display_value="(TBC) UPN (first.last@nammnet.com)">d6408771db911010b0235c7a4896198c</application_level_auth_attr>
+<assertion_url>https://nammnet.com/SecurePortal/SAML/AssertionConsumerService.aspx</assertion_url>
+<attribute_1_value>http.REQ.USER.GROUPS</attribute_1_value>
+<audience>SecurePortalSSO</audience>
+<auth_attribute_1>groups</auth_attribute_1>
+<auth_attribute_1_ad_group_name>nammnet\Dashboard Users</auth_attribute_1_ad_group_name>
+<authenticationdomain>NAMMCAL &amp; NAMMNET</authenticationdomain>
+<cdodeliverymodel>CDO (Shared)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - External Providers</cdodeliverypopulation>
+<ctnetscaleraccess>Icon not available in CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>sAMaccountName</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMNET Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>https://auth.optumcare-mso.com/saml/login</logout_url>
+<mfascopestatus>MFA Scope TBD</mfascopestatus>
+<mfasolution>TBD</mfasolution>
+<name_id_format>Unspecified</name_id_format>
+<nameidexpression>http.req.user.attribute(3)</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="UPN (first.last@nammnet.com)">8290c371db911010b0235c7a4896199f</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>https://www.nammnet.com/SecurePortal/Dashboard.aspx</namm_cdo_website>
+<nammcitrixaccess>Population does not use NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>SecurePortal Prod</service_provider>
+<service_provider_id>SecurePortalSSO</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 08:25:05</sys_created_on>
+<sys_id>52f62f8edb5d1010b0235c7a4896198f</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:11</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Online P4P">a857c8fddbf34010b0235c7a489619a6</appid>
+<application_level_auth_attr display_value="(TBC) sAMAccount (flast)">6deff271db911010b0235c7a48961981</application_level_auth_attr>
+<assertion_url>https://nammnet.com/P4PPortal/SAML/AssertionConsumerService.aspx</assertion_url>
+<attribute_1_value>Unspecified</attribute_1_value>
+<audience>P4P</audience>
+<auth_attribute_1>Unspecified</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>Unspecified</authenticationdomain>
+<cdodeliverymodel>CDO (Exclusive)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - Internal Staff</cdodeliverypopulation>
+<ctnetscaleraccess>Icon not available in CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>N\A</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMCAL Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>Unspecified</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Confirm Robert\Tim Solution</mfasolution>
+<name_id_format>Unspecified</name_id_format>
+<nameidexpression>Unspecified</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="sAMAccount (flast)">2b208731db911010b0235c7a48961909</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>https://www.nammnet.com/P4PPortal</namm_cdo_website>
+<nammcitrixaccess>Icon Accessible from NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>P4P Prod</service_provider>
+<service_provider_id>P4P</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 08:18:29</sys_created_on>
+<sys_id>6175ab4edb5d1010b0235c7a489619f0</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:10</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Online PDR">2457c8fddbf34010b0235c7a4896199e</appid>
+<application_level_auth_attr display_value="(TBC) sAMAccount (flast)">6deff271db911010b0235c7a48961981</application_level_auth_attr>
+<assertion_url>https://nammnet.com/PDR/SAML/AssertionConsumerService.aspx</assertion_url>
+<attribute_1_value>http.REQ.USER.GROUPS</attribute_1_value>
+<audience>PDRSSO</audience>
+<auth_attribute_1>groups</auth_attribute_1>
+<auth_attribute_1_ad_group_name>nammcal\AG_094_BKn-OnlinePDR</auth_attribute_1_ad_group_name>
+<authenticationdomain>Unspecified</authenticationdomain>
+<cdodeliverymodel>CDO (Exclusive)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - Internal Staff</cdodeliverypopulation>
+<ctnetscaleraccess>Icon not available in CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>N\A</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMCAL Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>https://auth.optumcare-mso.com/saml/login</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Confirm Robert\Tim Solution</mfasolution>
+<name_id_format>Unspecified</name_id_format>
+<nameidexpression>Unspecified</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="sAMAccount (flast)">2b208731db911010b0235c7a48961909</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>https://www.nammnet.com/PDR/</namm_cdo_website>
+<nammcitrixaccess>Icon Accessible from NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>PDR PROD</service_provider>
+<service_provider_id>PDRSSO</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 07:40:02</sys_created_on>
+<sys_id>67bad786db5d1010b0235c7a48961922</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:10</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Krypton_IOS">e457c8fddbf34010b0235c7a489619aa</appid>
+<application_level_auth_attr display_value="(TBC) UPN (first.last@nammnet.com)">d6408771db911010b0235c7a4896198c</application_level_auth_attr>
+<assertion_url>N\A</assertion_url>
+<attribute_1_value>N\A</attribute_1_value>
+<audience>N\A</audience>
+<auth_attribute_1>N\A</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>N\A</authenticationdomain>
+<cdodeliverymodel>CDO (Exclusive)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - External Providers</cdodeliverypopulation>
+<ctnetscaleraccess>Icon not available in CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>N\A</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>N\A</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMNET Domain</idpsourcebydomain>
+<issuer_name>N\A</issuer_name>
+<logout_url>N\A</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>TBD</mfasolution>
+<name_id_format>N\A</name_id_format>
+<nameidexpression>N\A</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="Domain Authentication only (No SAML\SSO)">b4100371db911010b0235c7a489619ea</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="Domain Authentication only (No SAML\SSO)">b4100371db911010b0235c7a489619ea</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>(Mobile App)</namm_cdo_website>
+<nammcitrixaccess>Population does not use NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes Via AppStore w\credentials</publicallyaccesible>
+<service_provider>N\A</service_provider>
+<service_provider_id>N\A</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>N\A</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 08:57:03</sys_created_on>
+<sys_id>6e4eaf42db9d1010b0235c7a489619c3</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:04</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Nammnet Express_OCNCT">3057c8fddbf34010b0235c7a489619f1</appid>
+<application_level_auth_attr display_value="Company (First.Last@CT)">757513c2db5d1010b0235c7a489619af</application_level_auth_attr>
+<assertion_url>https://optumcare-east.nammnet.com/login/SsoAssertion.aspx</assertion_url>
+<attribute_1_value>Unspecified</attribute_1_value>
+<audience>NE_SP</audience>
+<auth_attribute_1>Unspecified</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>NAMMNET</authenticationdomain>
+<cdodeliverymodel>CDO (Shared)</cdodeliverymodel>
+<cdodeliverypopulation>OCNCT CDO - External Providers</cdodeliverypopulation>
+<ctnetscaleraccess>Icon accessible from CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>Company Name</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMNET Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>https://optumcare-mso.com/cgi/tmlogout</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Starling 2FA</mfasolution>
+<name_id_format>(TBC) EmailAddress</name_id_format>
+<nameidexpression>http.req.user.attribute(1)</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>N\A</namm_cdo_website>
+<nammcitrixaccess>Population does not use NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="Full Name (First.Last)  (Attribute Editor &quot;name&quot; field)">dde18fb1db911010b0235c7a48961991</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>https://optumcare-east.nammnet.com/sso/</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>NammnetExpress CT</service_provider>
+<service_provider_id>NE_SP</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 10:47:00</sys_created_on>
+<sys_id>8177c0d2dbdd1010b0235c7a489619e3</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:04</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Nammnet Express_OCNCT">3057c8fddbf34010b0235c7a489619f1</appid>
+<application_level_auth_attr display_value="UPN (flast@nammcal.local)">e3304771db911010b0235c7a489619a7</application_level_auth_attr>
+<assertion_url>N\A</assertion_url>
+<attribute_1_value>N\A</attribute_1_value>
+<audience>N\A</audience>
+<auth_attribute_1>N\A</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>N\A</authenticationdomain>
+<cdodeliverymodel>CDO (Shared)</cdodeliverymodel>
+<cdodeliverypopulation>OCNCT CDO - Internal Staff</cdodeliverypopulation>
+<ctnetscaleraccess>These domain accts dont access the CT Netscaler Icon</ctnetscaleraccess>
+<expressionattributeaddescription>N\A</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>N\A</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMCAL Domain</idpsourcebydomain>
+<issuer_name>N\A</issuer_name>
+<logout_url>N\A</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Confirm Robert\Tim Solution</mfasolution>
+<name_id_format>N\A</name_id_format>
+<nameidexpression>N\A</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>N\A</namm_cdo_website>
+<nammcitrixaccess>Web Accessible from NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>https://optumcare-east.nammnet.com/login/nammcal.htm</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>N\A</service_provider>
+<service_provider_id>N\A</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>N\A</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 10:49:11</sys_created_on>
+<sys_id>85f784d2dbdd1010b0235c7a48961958</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:04</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Nammnet Express_OCNCT">3057c8fddbf34010b0235c7a489619f1</appid>
+<application_level_auth_attr display_value="UPN (flast@nammcal.local)">e3304771db911010b0235c7a489619a7</application_level_auth_attr>
+<assertion_url>N\A</assertion_url>
+<attribute_1_value>N\A</attribute_1_value>
+<audience>N\A</audience>
+<auth_attribute_1>N\A</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>N\A</authenticationdomain>
+<cdodeliverymodel>CDO (Shared)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - Internal Staff</cdodeliverypopulation>
+<ctnetscaleraccess>No Icon access by population</ctnetscaleraccess>
+<expressionattributeaddescription>N\A</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>N\A</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMCAL Domain</idpsourcebydomain>
+<issuer_name>N\A</issuer_name>
+<logout_url>N\A</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Confirm Robert\Tim Solution</mfasolution>
+<name_id_format>N\A</name_id_format>
+<nameidexpression>N\A</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>N\A</namm_cdo_website>
+<nammcitrixaccess>Web Accessible from NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>https://optumcare-east.nammnet.com/login/nammcal.htm</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>N\A</service_provider>
+<service_provider_id>N\A</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>N\A</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 10:48:21</sys_created_on>
+<sys_id>8dc7c092dbdd1010b0235c7a48961988</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:04</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Krypton_Android">e857c8fddbf34010b0235c7a489619da</appid>
+<application_level_auth_attr display_value="(TBC) UPN (first.last@nammnet.com)">d6408771db911010b0235c7a4896198c</application_level_auth_attr>
+<assertion_url>N\A</assertion_url>
+<attribute_1_value>N\A</attribute_1_value>
+<audience>N\A</audience>
+<auth_attribute_1>N\A</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>N\A</authenticationdomain>
+<cdodeliverymodel>CDO (Exclusive)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - External Providers</cdodeliverypopulation>
+<ctnetscaleraccess>Icon not available in CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>N\A</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>N\A</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMNET Domain</idpsourcebydomain>
+<issuer_name>N\A</issuer_name>
+<logout_url>N\A</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>TBD</mfasolution>
+<name_id_format>N\A</name_id_format>
+<nameidexpression>N\A</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="Domain Authentication only (No SAML\SSO)">b4100371db911010b0235c7a489619ea</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="Domain Authentication only (No SAML\SSO)">b4100371db911010b0235c7a489619ea</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>(Mobile App)</namm_cdo_website>
+<nammcitrixaccess>Population does not use NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes Via AppStore w\credentials</publicallyaccesible>
+<service_provider>N\A</service_provider>
+<service_provider_id>N\A</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>N\A</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 08:56:38</sys_created_on>
+<sys_id>903eeb82db9d1010b0235c7a48961967</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:04</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Cozeva_OCNCT">f457c8fddbf34010b0235c7a489619f3</appid>
+<application_level_auth_attr display_value="(TBC) sAMAccount (flast)">6deff271db911010b0235c7a48961981</application_level_auth_attr>
+<assertion_url>(TBC) https://www.cozeva.com/saml/consume</assertion_url>
+<attribute_1_value>Unspecified</attribute_1_value>
+<audience>(TBC) CozevaSSO</audience>
+<auth_attribute_1>Unspecified</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>NAMMCAL &amp; NAMMNET</authenticationdomain>
+<cdodeliverymodel>CDO (Shared)</cdodeliverymodel>
+<cdodeliverypopulation>OCNCT CDO - Internal Staff</cdodeliverypopulation>
+<ctnetscaleraccess>These domain accts dont access the CT Netscaler Icon</ctnetscaleraccess>
+<expressionattributeaddescription>(TBC) sAMaccountName</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMCAL Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>Unspecified</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Confirm Robert\Tim Solution</mfasolution>
+<name_id_format>Unspecified</name_id_format>
+<nameidexpression>http.req.user.attribute(3)</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>N\A</namm_cdo_website>
+<nammcitrixaccess>Web Accessible from NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="(TBC) sAMAccount (flast)">7861c7b1db911010b0235c7a489619c3</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>(TBC) 1. https://auths.nammnet.com/login/Sso_LaunchCozeva.aspx   2. https://www.nammnet.com/dummycozevasp  Both of these links are not publically available</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>(TBC) Cozeva PROD</service_provider>
+<service_provider_id>(TBC) CozevaSSO</service_provider_id>
+<serviceprovidercompany>Cozeva</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 10:24:33</sys_created_on>
+<sys_id>90524c9adb9d1010b0235c7a489619ea</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:19:54</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="(OI) Password Manager_User">a457c8fddbf34010b0235c7a489619c6</appid>
+<application_level_auth_attr display_value="UPN (first.last@nammnet.com)">8290c371db911010b0235c7a4896199f</application_level_auth_attr>
+<assertion_url>N\A</assertion_url>
+<attribute_1_value>N\A</attribute_1_value>
+<audience>N\A</audience>
+<auth_attribute_1>N\A</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>N\A</authenticationdomain>
+<cdodeliverymodel>CDO (Shared)</cdodeliverymodel>
+<cdodeliverypopulation>OCNCT CDO - External Providers</cdodeliverypopulation>
+<ctnetscaleraccess>Icon accessible from CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>N\A</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>N\A</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMNET Domain</idpsourcebydomain>
+<issuer_name>N\A</issuer_name>
+<logout_url>N\A</logout_url>
+<mfascopestatus>Out of Scope for MFA</mfascopestatus>
+<mfasolution>N\A</mfasolution>
+<name_id_format>N\A</name_id_format>
+<nameidexpression>N\A</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="2FA Only (No SAML\SSO)">61704731db911010b0235c7a489619ca</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>https://reset.nammnet.com/pmuser</namm_cdo_website>
+<nammcitrixaccess>Population does not use NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes w\2FA</publicallyaccesible>
+<service_provider>N\A</service_provider>
+<service_provider_id>N\A</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>N\A</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 08:51:31</sys_created_on>
+<sys_id>950de382db9d1010b0235c7a489619c5</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:11</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Care Dojo">b457c8fddbf34010b0235c7a489619f4</appid>
+<application_level_auth_attr display_value="N\A">ad20c371db911010b0235c7a48961920</application_level_auth_attr>
+<assertion_url>https://namm.csod.com/samldefault.aspx?ouid=1</assertion_url>
+<attribute_1_value>Unspecified</attribute_1_value>
+<audience>netscaler.com</audience>
+<auth_attribute_1>Unspecified</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>NAMMNET</authenticationdomain>
+<cdodeliverymodel>CDO (Exclusive)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - External Providers</cdodeliverypopulation>
+<ctnetscaleraccess>Icon not available in CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>mail</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>NAMM_SAML_IDP</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMNET Domain</idpsourcebydomain>
+<issuer_name>netscaler.com</issuer_name>
+<logout_url>Unspecified</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Starling 2FA</mfasolution>
+<name_id_format>(TBC) EmailAddress</name_id_format>
+<nameidexpression>http.req.user.attribute(4)</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="UPN (first.last@nammnet.com)">8290c371db911010b0235c7a4896199f</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>https://namm.csod.com/ui/lms-learner-home/</namm_cdo_website>
+<nammcitrixaccess>Population does not use NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>CareDojo TEST</service_provider>
+<service_provider_id>https://namm.csod.com</service_provider_id>
+<serviceprovidercompany>Cornerstone</serviceprovidercompany>
+<sp_cert>CDSSO_SAML_SP</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 10:01:09</sys_created_on>
+<sys_id>99fc7bcadb9d1010b0235c7a489619f2</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:19:45</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Argon_OCNCT">b057c8fddbf34010b0235c7a489619f6</appid>
+<application_level_auth_attr display_value="UPN (flast@nammcal.local)">e3304771db911010b0235c7a489619a7</application_level_auth_attr>
+<assertion_url>https://argon-saml.nammnet.com/SAML/SAML/AssertionConsumerService.aspx</assertion_url>
+<attribute_1_value>Unspecified</attribute_1_value>
+<audience>OPTUMCARE-MSO</audience>
+<auth_attribute_1>Unspecified</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>NAMMNET</authenticationdomain>
+<cdodeliverymodel>CDO (Shared)</cdodeliverymodel>
+<cdodeliverypopulation>OCNCT CDO - Internal Staff</cdodeliverypopulation>
+<ctnetscaleraccess>These domain accts dont access the CT Netscaler Icon</ctnetscaleraccess>
+<expressionattributeaddescription>userPrincipleName</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMCAL Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>Unspecified</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Confirm Robert\Tim Solution</mfasolution>
+<name_id_format>(TBC) EmailAddress</name_id_format>
+<nameidexpression>http.req.user.attribute(2)</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>N\A</namm_cdo_website>
+<nammcitrixaccess>Web Accessible from NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="UPN (flast@nammcal.local)">80814b71db911010b0235c7a489619a0</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>https://argon-saml.nammnet.com/</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>Argon-CT PROD</service_provider>
+<service_provider_id>OPTUMCARE-MSO</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 10:41:24</sys_created_on>
+<sys_id>9f26cc92dbdd1010b0235c7a48961957</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:04</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Online Remittance Advice">e844a927db111010fb5c2bfa4b96190d</appid>
+<application_level_auth_attr display_value=""/>
+<assertion_url/>
+<attribute_1_value/>
+<audience/>
+<auth_attribute_1/>
+<auth_attribute_1_ad_group_name/>
+<authenticationdomain/>
+<cdodeliverymodel>CDO (Exclusive)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - External Providers</cdodeliverypopulation>
+<ctnetscaleraccess/>
+<expressionattributeaddescription/>
+<identityprovidercompany/>
+<idp_cert/>
+<idpsourcebydomain/>
+<issuer_name/>
+<logout_url/>
+<mfascopestatus/>
+<mfasolution/>
+<name_id_format/>
+<nameidexpression/>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value=""/>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value=""/>
+<namm_cdo_website/>
+<nammcitrixaccess/>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value=""/>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value=""/>
+<ocnct_cdo_website/>
+<publicallyaccesible/>
+<service_provider/>
+<service_provider_id/>
+<serviceprovidercompany/>
+<sp_cert/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-15 14:51:09</sys_created_on>
+<sys_id>a3652167db111010fb5c2bfa4b9619a9</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:08:00</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Online P4P">a857c8fddbf34010b0235c7a489619a6</appid>
+<application_level_auth_attr display_value="(TBC) UPN (first.last@nammnet.com)">d6408771db911010b0235c7a4896198c</application_level_auth_attr>
+<assertion_url>https://nammnet.com/P4PPortal/SAML/AssertionConsumerService.aspx</assertion_url>
+<attribute_1_value>Unspecified</attribute_1_value>
+<audience>P4P</audience>
+<auth_attribute_1>Unspecified</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>Unspecified</authenticationdomain>
+<cdodeliverymodel>CDO (Exclusive)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - External Providers</cdodeliverypopulation>
+<ctnetscaleraccess>Icon not available in CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>N\A</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMNET Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>Unspecified</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Starling 2FA</mfasolution>
+<name_id_format>Unspecified</name_id_format>
+<nameidexpression>Unspecified</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="UPN (first.last@nammnet.com)">8290c371db911010b0235c7a4896199f</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>https://www.nammnet.com/P4PPortal</namm_cdo_website>
+<nammcitrixaccess>Population does not use NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>P4P Prod</service_provider>
+<service_provider_id>P4P</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 08:19:45</sys_created_on>
+<sys_id>c0c5ef4edb5d1010b0235c7a489619ef</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:10</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Cozeva_OCNCT">f457c8fddbf34010b0235c7a489619f3</appid>
+<application_level_auth_attr display_value="(TBC) sAMAccount (flast)">6deff271db911010b0235c7a48961981</application_level_auth_attr>
+<assertion_url>(TBC) https://www.cozeva.com/saml/consume</assertion_url>
+<attribute_1_value>Unspecified</attribute_1_value>
+<audience>(TBC) CozevaSSO</audience>
+<auth_attribute_1>Unspecified</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>NAMMCAL &amp; NAMMNET</authenticationdomain>
+<cdodeliverymodel>CDO (Shared)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - Internal Staff</cdodeliverypopulation>
+<ctnetscaleraccess>No Icon access by population</ctnetscaleraccess>
+<expressionattributeaddescription>(TBC) sAMaccountName</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMCAL Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>Unspecified</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Confirm Robert\Tim Solution</mfasolution>
+<name_id_format>Unspecified</name_id_format>
+<nameidexpression>http.req.user.attribute(3)</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>N\A</namm_cdo_website>
+<nammcitrixaccess>Web Accessible from NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="(TBC) sAMAccount (flast)">7861c7b1db911010b0235c7a489619c3</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>(TBC) 1. https://auths.nammnet.com/login/Sso_LaunchCozeva.aspx   2. https://www.nammnet.com/dummycozevasp  Both of these links are not publically available</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>(TBC) Cozeva PROD</service_provider>
+<service_provider_id>(TBC) CozevaSSO</service_provider_id>
+<serviceprovidercompany>Cozeva</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 10:23:11</sys_created_on>
+<sys_id>d4028812dbdd1010b0235c7a489619a0</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:19:54</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Cozeva_OCNCT">f457c8fddbf34010b0235c7a489619f3</appid>
+<application_level_auth_attr display_value="(TBC) UPN (first.last@nammnet.com)">d6408771db911010b0235c7a4896198c</application_level_auth_attr>
+<assertion_url>(TBC) https://www.cozeva.com/saml/consume</assertion_url>
+<attribute_1_value>Unspecified</attribute_1_value>
+<audience>(TBC) CozevaSSO</audience>
+<auth_attribute_1>Unspecified</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>NAMMCAL &amp; NAMMNET</authenticationdomain>
+<cdodeliverymodel>CDO (Shared)</cdodeliverymodel>
+<cdodeliverypopulation>OCNCT CDO - External Providers</cdodeliverypopulation>
+<ctnetscaleraccess>Icon accessible from CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>sAMaccountName</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMNET Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>Unspecified</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Starling 2FA</mfasolution>
+<name_id_format>Unspecified</name_id_format>
+<nameidexpression>http.req.user.attribute(3)</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>N\A</namm_cdo_website>
+<nammcitrixaccess>Population does not use NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="(TBC) UPN (FIRST.LAST@nammnet.com)">ef91c7b1db911010b0235c7a489619c7</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>(TBC) 1. https://auths.nammnet.com/login/Sso_LaunchCozeva.aspx   2. https://www.nammnet.com/dummycozevasp  Both of these links are not publically available</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>(TBC) Cozeva PROD</service_provider>
+<service_provider_id>(TBC) CozevaSSO</service_provider_id>
+<serviceprovidercompany>Cozeva</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 10:28:15</sys_created_on>
+<sys_id>d623c85edb9d1010b0235c7a489619ea</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:19:54</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Secure Portal_NAMM">2c57c8fddbf34010b0235c7a4896199d</appid>
+<application_level_auth_attr display_value="(TBC) sAMAccount (flast)">6deff271db911010b0235c7a48961981</application_level_auth_attr>
+<assertion_url>https://nammnet.com/SecurePortal/SAML/AssertionConsumerService.aspx</assertion_url>
+<attribute_1_value>http.REQ.USER.GROUPS</attribute_1_value>
+<audience>SecurePortalSSO</audience>
+<auth_attribute_1>groups</auth_attribute_1>
+<auth_attribute_1_ad_group_name>nammcal\AG_091_BKn-SecurePortal</auth_attribute_1_ad_group_name>
+<authenticationdomain>NAMMCAL &amp; NAMMNET</authenticationdomain>
+<cdodeliverymodel>CDO (Shared)</cdodeliverymodel>
+<cdodeliverypopulation>OCNCT CDO - Internal Staff</cdodeliverypopulation>
+<ctnetscaleraccess>Icon not available in CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>sAMaccountName</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMCAL Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>https://auth.optumcare-mso.com/saml/login</logout_url>
+<mfascopestatus>MFA Scope TBD</mfascopestatus>
+<mfasolution>TBD</mfasolution>
+<name_id_format>Unspecified</name_id_format>
+<nameidexpression>http.req.user.attribute(3)</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="sAMAccount (flast)">2b208731db911010b0235c7a48961909</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>https://www.nammnet.com/SecurePortal/Dashboard.aspx</namm_cdo_website>
+<nammcitrixaccess>Icon Accessible from NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>SecurePortal Prod</service_provider>
+<service_provider_id>SecurePortalSSO</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 08:28:14</sys_created_on>
+<sys_id>e0b72f8edb5d1010b0235c7a489619b0</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:11</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Krypton_Android">e857c8fddbf34010b0235c7a489619da</appid>
+<application_level_auth_attr display_value="(TBC) UPN (flast@nammcal.local)">d9859742db5d1010b0235c7a48961921</application_level_auth_attr>
+<assertion_url>N\A</assertion_url>
+<attribute_1_value>N\A</attribute_1_value>
+<audience>N\A</audience>
+<auth_attribute_1>N\A</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>N\A</authenticationdomain>
+<cdodeliverymodel>CDO (Exclusive)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - Internal Staff</cdodeliverypopulation>
+<ctnetscaleraccess>N\A</ctnetscaleraccess>
+<expressionattributeaddescription>N\A</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>N\A</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMCAL Domain</idpsourcebydomain>
+<issuer_name>N\A</issuer_name>
+<logout_url>N\A</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>TBD</mfasolution>
+<name_id_format>N\A</name_id_format>
+<nameidexpression>N\A</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="Domain Authentication only (No SAML\SSO)">b4100371db911010b0235c7a489619ea</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="Domain Authentication only (No SAML\SSO)">b4100371db911010b0235c7a489619ea</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>(Mobile App)</namm_cdo_website>
+<nammcitrixaccess>N\A</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes via Mobile AppStore w\credentials</publicallyaccesible>
+<service_provider>N\A</service_provider>
+<service_provider_id>N\A</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>N\A</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 08:58:50</sys_created_on>
+<sys_id>e0be63c2db9d1010b0235c7a489619c8</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:04</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Argon_OCNCT">b057c8fddbf34010b0235c7a489619f6</appid>
+<application_level_auth_attr display_value="UPN (first.last@nammnet.com)">8290c371db911010b0235c7a4896199f</application_level_auth_attr>
+<assertion_url>https://argon-saml.nammnet.com/SAML/SAML/AssertionConsumerService.aspx</assertion_url>
+<attribute_1_value>Unspecified</attribute_1_value>
+<audience>OPTUMCARE-MSO</audience>
+<auth_attribute_1>Unspecified</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>NAMMNET</authenticationdomain>
+<cdodeliverymodel>CDO (Shared)</cdodeliverymodel>
+<cdodeliverypopulation>OCNCT CDO - Internal Staff</cdodeliverypopulation>
+<ctnetscaleraccess>Icon accessible from CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>userPrincipleName</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMNET Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>Unspecified</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Confirm Robert\Tim Solution</mfasolution>
+<name_id_format>(TBC) EmailAddress</name_id_format>
+<nameidexpression>http.req.user.attribute(2)</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>N\A</namm_cdo_website>
+<nammcitrixaccess>Web Accessible from NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="Full Name (First.Last)  (Attribute Editor &quot;name&quot; field)">dde18fb1db911010b0235c7a48961991</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>https://argon-saml.nammnet.com/</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>Argon-CT PROD</service_provider>
+<service_provider_id>OPTUMCARE-MSO</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 10:31:32</sys_created_on>
+<sys_id>eae3c452dbdd1010b0235c7a4896192e</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:04</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Cozeva_NAMM">bc57c8fddbf34010b0235c7a489619f2</appid>
+<application_level_auth_attr display_value="(TBC) UPN (first.last@nammnet.com)">d6408771db911010b0235c7a4896198c</application_level_auth_attr>
+<assertion_url>https://www.cozeva.com/saml/consume</assertion_url>
+<attribute_1_value>Unspecified</attribute_1_value>
+<audience>CozevaSSO</audience>
+<auth_attribute_1>Unspecified</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>NAMMCAL &amp; NAMMNET</authenticationdomain>
+<cdodeliverymodel>CDO (Exclusive)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - External Providers</cdodeliverypopulation>
+<ctnetscaleraccess>Icon not available in CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>sAMaccountName</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMNET Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>Unspecified</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Starling 2FA</mfasolution>
+<name_id_format>Unspecified</name_id_format>
+<nameidexpression>http.req.user.attribute(3)</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="(TBC) UPN (first.last@nammnet.com)">d6408771db911010b0235c7a4896198c</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>1. https://auths.nammnet.com/login/Sso_LaunchCozeva.aspx   2. https://www.nammnet.com/dummycozevasp  Both of these links are not publically available</namm_cdo_website>
+<nammcitrixaccess>Population does not use NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>Cozeva PROD</service_provider>
+<service_provider_id>CozevaSSO</service_provider_id>
+<serviceprovidercompany>Cozeva</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 08:44:34</sys_created_on>
+<sys_id>eb6b678edb5d1010b0235c7a48961950</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:19:54</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Nammnet Express_NAMM">dc57c8fddbf34010b0235c7a48961997</appid>
+<application_level_auth_attr display_value="UPN (first.last@nammnet.com)">8290c371db911010b0235c7a4896199f</application_level_auth_attr>
+<assertion_url>https://auths.nammnet.com/login/SSOAssertion.aspx</assertion_url>
+<attribute_1_value>Unspecified</attribute_1_value>
+<audience>NE_NAMM_PROD_SP</audience>
+<auth_attribute_1>Unspecified</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>Unspecified</authenticationdomain>
+<cdodeliverymodel>CDO (Exclusive)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - External Providers</cdodeliverypopulation>
+<ctnetscaleraccess>Icon not available in CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>userPrincipleName</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMNET Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>https://auth.optumcare-mso.com/saml/login</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Starling 2FA</mfasolution>
+<name_id_format>(TBC) EmailAddress</name_id_format>
+<nameidexpression>http.req.user.attribute(2)</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="UPN (first.last@nammnet.com)">8290c371db911010b0235c7a4896199f</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>https://auths.nammnet.com/login/</namm_cdo_website>
+<nammcitrixaccess>Population does not use NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>NammnetExpress PROD</service_provider>
+<service_provider_id>NE_NAMM_PROD_SP</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 07:54:02</sys_created_on>
+<sys_id>efdfd30adb5d1010b0235c7a4896197d</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:04</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Nammnet Express_NAMM">dc57c8fddbf34010b0235c7a48961997</appid>
+<application_level_auth_attr display_value="UPN (flast@nammcal.local)">e3304771db911010b0235c7a489619a7</application_level_auth_attr>
+<assertion_url>https://auths.nammnet.com/login/SSOAssertion.aspx</assertion_url>
+<attribute_1_value>Unspecified</attribute_1_value>
+<audience>NE_NAMM_PROD_SP</audience>
+<auth_attribute_1>Unspecified</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>Unspecified</authenticationdomain>
+<cdodeliverymodel>CDO (Exclusive)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - Internal Staff</cdodeliverypopulation>
+<ctnetscaleraccess>Icon not available in CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>userPrincipleName</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMCAL Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>https://auth.optumcare-mso.com/saml/login</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Confirm Robert\Tim Solution</mfasolution>
+<name_id_format>(TBC) EmailAddress</name_id_format>
+<nameidexpression>http.req.user.attribute(2)</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="UPN (flast@nammcal.local)">e3304771db911010b0235c7a489619a7</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>https://auths.nammnet.com/login/</namm_cdo_website>
+<nammcitrixaccess>Icon Accessible from NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>NammnetExpress PROD</service_provider>
+<service_provider_id>NE_NAMM_PROD_SP</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 07:51:49</sys_created_on>
+<sys_id>f25f1b0adb5d1010b0235c7a48961946</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:04</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Argon_OCNCT">b057c8fddbf34010b0235c7a489619f6</appid>
+<application_level_auth_attr display_value="UPN (first.last@nammnet.com)">8290c371db911010b0235c7a4896199f</application_level_auth_attr>
+<assertion_url>https://argon-saml.nammnet.com/SAML/SAML/AssertionConsumerService.aspx</assertion_url>
+<attribute_1_value>Unspecified</attribute_1_value>
+<audience>OPTUMCARE-MSO</audience>
+<auth_attribute_1>Unspecified</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>NAMMNET</authenticationdomain>
+<cdodeliverymodel>CDO (Shared)</cdodeliverymodel>
+<cdodeliverypopulation>OCNCT CDO - External Providers</cdodeliverypopulation>
+<ctnetscaleraccess>Icon accessible from CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>userPrincipleName</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>SAML_IDP_Pair</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMNET Domain</idpsourcebydomain>
+<issuer_name>OPTUMCARE-MSO</issuer_name>
+<logout_url>Unspecified</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Starling 2FA</mfasolution>
+<name_id_format>(TBC) EmailAddress</name_id_format>
+<nameidexpression>http.req.user.attribute(2)</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>N\A</namm_cdo_website>
+<nammcitrixaccess>Population does not use NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="Full Name (First.Last)  (Attribute Editor &quot;name&quot; field)">dde18fb1db911010b0235c7a48961991</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>https://argon-saml.nammnet.com/</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>Argon-CT PROD</service_provider>
+<service_provider_id>OPTUMCARE-MSO</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>SAML_IDP_Pair</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 10:42:49</sys_created_on>
+<sys_id>f37648d2dbdd1010b0235c7a489619b3</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:04</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Krypton_IOS">e457c8fddbf34010b0235c7a489619aa</appid>
+<application_level_auth_attr display_value="(TBC) UPN (flast@nammcal.local)">d9859742db5d1010b0235c7a48961921</application_level_auth_attr>
+<assertion_url>N\A</assertion_url>
+<attribute_1_value>N\A</attribute_1_value>
+<audience>N\A</audience>
+<auth_attribute_1>N\A</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>N\A</authenticationdomain>
+<cdodeliverymodel>CDO (Exclusive)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - Internal Staff</cdodeliverypopulation>
+<ctnetscaleraccess>N\A</ctnetscaleraccess>
+<expressionattributeaddescription>N\A</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>N\A</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMCAL Domain</idpsourcebydomain>
+<issuer_name>N\A</issuer_name>
+<logout_url>N\A</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>TBD</mfasolution>
+<name_id_format>N\A</name_id_format>
+<nameidexpression>N\A</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="Domain Authentication only (No SAML\SSO)">b4100371db911010b0235c7a489619ea</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="Domain Authentication only (No SAML\SSO)">b4100371db911010b0235c7a489619ea</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>(Mobile App)</namm_cdo_website>
+<nammcitrixaccess>N\A</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes via Mobile AppStore w\credentials</publicallyaccesible>
+<service_provider>N\A</service_provider>
+<service_provider_id>N\A</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>N\A</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 08:58:22</sys_created_on>
+<sys_id>f59e2fc2db9d1010b0235c7a48961949</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:04</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+<x_437100_arc_cmdb_app_authentication_context action="INSERT_OR_UPDATE">
+<appid display_value="Argon_NAMM">dc57c8fddbf34010b0235c7a4896199a</appid>
+<application_level_auth_attr display_value="UPN (flast@nammcal.local)">e3304771db911010b0235c7a489619a7</application_level_auth_attr>
+<assertion_url>N\A</assertion_url>
+<attribute_1_value>N\A</attribute_1_value>
+<audience>N\A</audience>
+<auth_attribute_1>N\A</auth_attribute_1>
+<auth_attribute_1_ad_group_name>N\A</auth_attribute_1_ad_group_name>
+<authenticationdomain>N\A</authenticationdomain>
+<cdodeliverymodel>CDO (Exclusive)</cdodeliverymodel>
+<cdodeliverypopulation>NAMM CDO - Internal Staff</cdodeliverypopulation>
+<ctnetscaleraccess>Icon not available in CT Netscaler</ctnetscaleraccess>
+<expressionattributeaddescription>N\A</expressionattributeaddescription>
+<identityprovidercompany>NAMM California</identityprovidercompany>
+<idp_cert>N\A</idp_cert>
+<idpsourcebydomain>Active Directory - NAMMCAL Domain</idpsourcebydomain>
+<issuer_name>N\A</issuer_name>
+<logout_url>N\A</logout_url>
+<mfascopestatus>In-Scope for MFA</mfascopestatus>
+<mfasolution>Confirm Robert\Tim Solution</mfasolution>
+<name_id_format>N\A</name_id_format>
+<nameidexpression>N\A</nameidexpression>
+<namm_cdo_domain_sso_authentication_nammcal_domain display_value="UPN (flast@nammcal.local)">e3304771db911010b0235c7a489619a7</namm_cdo_domain_sso_authentication_nammcal_domain>
+<namm_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">ad20c371db911010b0235c7a48961920</namm_cdo_domain_sso_authentication_nammnet_domain>
+<namm_cdo_website>https://argon.nammnet.com/</namm_cdo_website>
+<nammcitrixaccess>Icon Accessible from NAMM Citrix</nammcitrixaccess>
+<ocnct_cdo_domain_sso_authentication_nammcal_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammcal_domain>
+<ocnct_cdo_domain_sso_authentication_nammnet_domain display_value="N\A">7e61c3b1db911010b0235c7a48961915</ocnct_cdo_domain_sso_authentication_nammnet_domain>
+<ocnct_cdo_website>N\A</ocnct_cdo_website>
+<publicallyaccesible>Yes w\credentials</publicallyaccesible>
+<service_provider>TBD</service_provider>
+<service_provider_id>N\A</service_provider_id>
+<serviceprovidercompany>NAMM California</serviceprovidercompany>
+<sp_cert>N\A</sp_cert>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-06-11 07:59:07</sys_created_on>
+<sys_id>fd01af8adb5d1010b0235c7a489619f6</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-31 11:20:04</sys_updated_on>
+</x_437100_arc_cmdb_app_authentication_context>
+</unload>
